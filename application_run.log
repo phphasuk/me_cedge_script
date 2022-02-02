@@ -1,0 +1,2043 @@
+2022-02-02 01:14:14.612 INFO: starting the program.
+2022-02-02 01:14:14.612 INFO: Loading inventory file done.
+2022-02-02 01:14:14.616 INFO: Loading configuration template file done.
+2022-02-02 01:14:14.711 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:14:15.490 INFO: Authentication (password) successful!
+2022-02-02 01:14:16.019 INFO: {device["host"]}: in router terminal
+2022-02-02 01:14:34.832 INFO: {device["host"]}: in mobility express module terminal.
+2022-02-02 01:14:34.832 INFO: {device["host"]}: start parsing the configuration.
+2022-02-02 01:14:45.472 INFO: {device["host"]}: configuration complete.
+2022-02-02 01:17:28.413 INFO: starting the program.
+2022-02-02 01:17:28.413 INFO: Loading inventory file done.
+2022-02-02 01:17:28.417 INFO: Loading configuration template file done.
+2022-02-02 01:17:28.539 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:17:29.319 INFO: Authentication (password) successful!
+2022-02-02 01:17:29.882 INFO: 10.88.174.137: connected
+2022-02-02 01:17:48.712 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:17:48.713 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:17:59.193 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:18:13.433 INFO: 10.88.174.137: disconnected
+2022-02-02 01:24:07.990 INFO: starting the program.
+2022-02-02 01:24:07.991 INFO: Loading inventory file done.
+2022-02-02 01:24:07.995 INFO: Loading configuration template file done.
+2022-02-02 01:24:08.092 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:24:08.870 INFO: Authentication (password) successful!
+2022-02-02 01:24:09.322 INFO: 10.88.174.137: connected
+2022-02-02 01:24:28.242 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:24:28.242 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:24:38.766 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:24:52.972 INFO: 10.88.174.137: disconnected
+2022-02-02 01:24:57.707 INFO: starting the program.
+2022-02-02 01:24:57.707 INFO: Loading inventory file done.
+2022-02-02 01:24:57.711 INFO: Loading configuration template file done.
+2022-02-02 01:24:57.810 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:24:58.591 INFO: Authentication (password) successful!
+2022-02-02 01:24:59.051 INFO: 10.88.174.137: connected
+2022-02-02 01:25:17.882 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:25:17.883 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:25:28.173 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:25:42.314 INFO: 10.88.174.137: disconnected
+2022-02-02 01:26:31.155 INFO: starting the program.
+2022-02-02 01:26:31.156 INFO: Loading inventory done.
+2022-02-02 01:26:31.161 INFO: Loading configuration template done.
+2022-02-02 01:26:31.259 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:26:32.048 INFO: Authentication (password) successful!
+2022-02-02 01:26:32.627 INFO: 10.88.174.137: connected
+2022-02-02 01:26:51.478 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:26:51.478 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:27:01.966 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:27:16.151 INFO: 10.88.174.137: disconnected
+2022-02-02 01:27:49.281 INFO: starting the program.
+2022-02-02 01:27:49.281 INFO: Loading inventory done.
+2022-02-02 01:27:49.285 INFO: Loading configuration template done.
+2022-02-02 01:27:49.379 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:27:50.163 INFO: Authentication (password) successful!
+2022-02-02 01:27:50.688 INFO: 10.88.174.137: connected
+2022-02-02 01:28:09.398 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:28:09.398 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:28:19.861 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:28:34.055 INFO: 10.88.174.137: disconnected
+2022-02-02 01:29:36.119 INFO: starting the program.
+2022-02-02 01:29:36.120 INFO: Loading inventory done.
+2022-02-02 01:29:36.124 INFO: Loading configuration template done.
+2022-02-02 01:29:36.173 DEBUG: starting thread (client mode): 0x5017bb50
+2022-02-02 01:29:36.174 DEBUG: Local version/idstring: SSH-2.0-paramiko_2.9.2
+2022-02-02 01:29:36.221 DEBUG: Remote version/idstring: SSH-1.99-Cisco-1.25
+2022-02-02 01:29:36.221 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:29:36.222 DEBUG: === Key exchange possibilities ===
+2022-02-02 01:29:36.222 DEBUG: kex algos: diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1
+2022-02-02 01:29:36.222 DEBUG: server key: ssh-rsa
+2022-02-02 01:29:36.222 DEBUG: client encrypt: aes128-ctr, aes192-ctr, aes256-ctr
+2022-02-02 01:29:36.222 DEBUG: server encrypt: aes128-ctr, aes192-ctr, aes256-ctr
+2022-02-02 01:29:36.223 DEBUG: client mac: hmac-sha2-256, hmac-sha2-512, hmac-sha1, hmac-sha1-96
+2022-02-02 01:29:36.223 DEBUG: server mac: hmac-sha2-256, hmac-sha2-512, hmac-sha1, hmac-sha1-96
+2022-02-02 01:29:36.223 DEBUG: client compress: none
+2022-02-02 01:29:36.223 DEBUG: server compress: none
+2022-02-02 01:29:36.223 DEBUG: client lang: <none>
+2022-02-02 01:29:36.223 DEBUG: server lang: <none>
+2022-02-02 01:29:36.223 DEBUG: kex follows: False
+2022-02-02 01:29:36.223 DEBUG: === Key exchange agreements ===
+2022-02-02 01:29:36.223 DEBUG: Kex: diffie-hellman-group-exchange-sha1
+2022-02-02 01:29:36.223 DEBUG: HostKey: ssh-rsa
+2022-02-02 01:29:36.223 DEBUG: Cipher: aes128-ctr
+2022-02-02 01:29:36.223 DEBUG: MAC: hmac-sha2-256
+2022-02-02 01:29:36.223 DEBUG: Compression: none
+2022-02-02 01:29:36.223 DEBUG: === End of kex handshake ===
+2022-02-02 01:29:36.515 DEBUG: Got server p (2048 bits)
+2022-02-02 01:29:36.661 DEBUG: kex engine KexGex specified hash_algo <built-in function openssl_sha1>
+2022-02-02 01:29:36.661 DEBUG: Switch to new keys ...
+2022-02-02 01:29:36.662 DEBUG: Adding ssh-rsa host key for 10.88.174.137: b'fac9cf0a0d6505449c876c4c747882ae'
+2022-02-02 01:29:36.955 DEBUG: userauth is OK
+2022-02-02 01:29:37.001 INFO: Authentication (password) successful!
+2022-02-02 01:29:37.002 DEBUG: [chan 0] Max packet in: 32768 bytes
+2022-02-02 01:29:37.051 DEBUG: [chan 0] Max packet out: 4096 bytes
+2022-02-02 01:29:37.051 DEBUG: Secsh channel 0 opened.
+2022-02-02 01:29:37.098 DEBUG: [chan 0] Sesch channel 0 request ok
+2022-02-02 01:29:37.144 DEBUG: [chan 0] Sesch channel 0 request ok
+2022-02-02 01:29:37.145 DEBUG: write_channel: b'terminal width 511\n'
+2022-02-02 01:29:37.145 DEBUG: Pattern is: terminal width 511
+2022-02-02 01:29:37.145 DEBUG: _read_channel_expect read_data: 
+
+
+111-4#
+2022-02-02 01:29:37.200 DEBUG: _read_channel_expect read_data: te
+2022-02-02 01:29:37.211 DEBUG: _read_channel_expect read_data: r
+2022-02-02 01:29:37.222 DEBUG: _read_channel_expect read_data: mina
+2022-02-02 01:29:37.233 DEBUG: _read_channel_expect read_data: l 
+2022-02-02 01:29:37.244 DEBUG: _read_channel_expect read_data: widt
+2022-02-02 01:29:37.255 DEBUG: _read_channel_expect read_data: h 5
+2022-02-02 01:29:37.266 DEBUG: _read_channel_expect read_data: 11
+111-4#
+2022-02-02 01:29:37.266 DEBUG: Pattern found: terminal width 511 
+
+
+111-4#terminal width 511
+111-4#
+2022-02-02 01:29:37.266 DEBUG: In disable_paging
+2022-02-02 01:29:37.266 DEBUG: Command: terminal length 0
+
+2022-02-02 01:29:37.266 DEBUG: write_channel: b'terminal length 0\n'
+2022-02-02 01:29:37.266 DEBUG: Pattern is: terminal\ length\ 0
+2022-02-02 01:29:37.317 DEBUG: _read_channel_expect read_data: t
+2022-02-02 01:29:37.328 DEBUG: _read_channel_expect read_data: erm
+2022-02-02 01:29:37.339 DEBUG: _read_channel_expect read_data: inal
+2022-02-02 01:29:37.350 DEBUG: _read_channel_expect read_data:  l
+2022-02-02 01:29:37.360 DEBUG: _read_channel_expect read_data: eng
+2022-02-02 01:29:37.371 DEBUG: _read_channel_expect read_data: th
+2022-02-02 01:29:37.382 DEBUG: _read_channel_expect read_data:  0
+111-4#
+2022-02-02 01:29:37.382 DEBUG: Pattern found: terminal\ length\ 0 terminal length 0
+111-4#
+2022-02-02 01:29:37.382 DEBUG: terminal length 0
+111-4#
+2022-02-02 01:29:37.382 DEBUG: Exiting disable_paging
+2022-02-02 01:29:37.392 DEBUG: read_channel: 
+2022-02-02 01:29:37.393 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.404 DEBUG: read_channel: 
+2022-02-02 01:29:37.404 DEBUG: read_channel: 
+2022-02-02 01:29:37.404 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.415 DEBUG: read_channel: 
+2022-02-02 01:29:37.415 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.436 DEBUG: read_channel: 
+2022-02-02 01:29:37.436 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.476 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:29:37.498 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:29:37.499 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:29:37.519 DEBUG: read_channel: 
+111-4#
+111-4#
+2022-02-02 01:29:37.519 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:29:37.560 DEBUG: read_channel: 
+2022-02-02 01:29:37.560 DEBUG: [find_prompt()]: prompt is 111-4#
+2022-02-02 01:29:37.560 INFO: 10.88.174.137: connected
+2022-02-02 01:29:37.572 DEBUG: read_channel: 
+2022-02-02 01:29:37.572 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.582 DEBUG: read_channel: 
+2022-02-02 01:29:37.582 DEBUG: read_channel: 
+2022-02-02 01:29:37.582 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.593 DEBUG: read_channel: 
+2022-02-02 01:29:37.593 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.614 DEBUG: read_channel: 
+2022-02-02 01:29:37.614 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:37.655 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:29:37.677 DEBUG: read_channel: 
+2022-02-02 01:29:37.677 DEBUG: [find_prompt()]: prompt is 111-4#
+2022-02-02 01:29:37.709 DEBUG: read_channel: 
+111-4#
+111-4#
+2022-02-02 01:29:37.709 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:29:37.730 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:29:37.730 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:29:37.771 DEBUG: read_channel: 
+2022-02-02 01:29:37.771 DEBUG: write_channel: b'hw-module session 0/3 clear\n'
+2022-02-02 01:29:37.771 DEBUG: Pattern is: hw\-module\ session\ 0/3\ clear
+2022-02-02 01:29:37.825 DEBUG: _read_channel_expect read_data: h
+2022-02-02 01:29:37.836 DEBUG: _read_channel_expect read_data: w-m
+2022-02-02 01:29:37.847 DEBUG: _read_channel_expect read_data: odul
+2022-02-02 01:29:37.858 DEBUG: _read_channel_expect read_data: e 
+2022-02-02 01:29:37.869 DEBUG: _read_channel_expect read_data: sess
+2022-02-02 01:29:37.880 DEBUG: _read_channel_expect read_data: ion 
+2022-02-02 01:29:37.891 DEBUG: _read_channel_expect read_data: 0/3
+2022-02-02 01:29:37.902 DEBUG: _read_channel_expect read_data:  cle
+2022-02-02 01:29:37.913 DEBUG: _read_channel_expect read_data: ar
+2022-02-02 01:29:37.913 DEBUG: Pattern found: hw\-module\ session\ 0/3\ clear hw-module session 0/3 clear
+2022-02-02 01:29:37.934 DEBUG: read_channel: 
+
+2022-02-02 01:29:37.955 DEBUG: read_channel: 
+2022-02-02 01:29:37.976 DEBUG: read_channel: 
+2022-02-02 01:29:37.997 DEBUG: read_channel: 
+2022-02-02 01:29:38.018 DEBUG: read_channel: 
+2022-02-02 01:29:38.039 DEBUG: read_channel: 
+2022-02-02 01:29:38.060 DEBUG: read_channel: 
+2022-02-02 01:29:38.081 DEBUG: read_channel: 
+2022-02-02 01:29:38.102 DEBUG: read_channel: 
+2022-02-02 01:29:38.123 DEBUG: read_channel: 
+2022-02-02 01:29:38.144 DEBUG: read_channel: 
+2022-02-02 01:29:38.165 DEBUG: read_channel: 
+2022-02-02 01:29:38.185 DEBUG: read_channel: 
+2022-02-02 01:29:38.206 DEBUG: read_channel: 
+2022-02-02 01:29:38.227 DEBUG: read_channel: 
+2022-02-02 01:29:38.248 DEBUG: read_channel: 
+2022-02-02 01:29:38.269 DEBUG: read_channel: 
+2022-02-02 01:29:38.290 DEBUG: read_channel: 
+2022-02-02 01:29:38.311 DEBUG: read_channel: 
+2022-02-02 01:29:38.332 DEBUG: read_channel: 
+2022-02-02 01:29:38.353 DEBUG: read_channel: 
+2022-02-02 01:29:38.374 DEBUG: read_channel: 
+2022-02-02 01:29:38.395 DEBUG: read_channel: 
+2022-02-02 01:29:38.416 DEBUG: read_channel: 
+2022-02-02 01:29:38.437 DEBUG: read_channel: 
+2022-02-02 01:29:38.458 DEBUG: read_channel: 
+2022-02-02 01:29:38.479 DEBUG: read_channel: 
+2022-02-02 01:29:38.500 DEBUG: read_channel: 
+2022-02-02 01:29:38.521 DEBUG: read_channel: 
+2022-02-02 01:29:38.542 DEBUG: read_channel: 
+2022-02-02 01:29:38.563 DEBUG: read_channel: 
+2022-02-02 01:29:38.583 DEBUG: read_channel: 
+2022-02-02 01:29:38.604 DEBUG: read_channel: 
+2022-02-02 01:29:38.625 DEBUG: read_channel: 
+2022-02-02 01:29:38.646 DEBUG: read_channel: 
+2022-02-02 01:29:38.667 DEBUG: read_channel: 
+2022-02-02 01:29:38.688 DEBUG: read_channel: 
+2022-02-02 01:29:38.709 DEBUG: read_channel: 
+2022-02-02 01:29:38.730 DEBUG: read_channel: 
+2022-02-02 01:29:38.751 DEBUG: read_channel: 
+2022-02-02 01:29:38.772 DEBUG: read_channel: 
+2022-02-02 01:29:38.793 DEBUG: read_channel: 
+2022-02-02 01:29:38.814 DEBUG: read_channel: 
+2022-02-02 01:29:38.835 DEBUG: read_channel: 
+2022-02-02 01:29:38.856 DEBUG: read_channel: 
+2022-02-02 01:29:38.877 DEBUG: read_channel: 
+2022-02-02 01:29:38.898 DEBUG: read_channel: 
+2022-02-02 01:29:38.919 DEBUG: read_channel: 
+2022-02-02 01:29:38.940 DEBUG: read_channel: 
+2022-02-02 01:29:38.961 DEBUG: read_channel: 
+2022-02-02 01:29:38.981 DEBUG: read_channel: 
+2022-02-02 01:29:39.002 DEBUG: read_channel: 
+2022-02-02 01:29:39.023 DEBUG: read_channel: 
+2022-02-02 01:29:39.044 DEBUG: read_channel: 
+2022-02-02 01:29:39.065 DEBUG: read_channel: 111-4#
+2022-02-02 01:29:39.097 DEBUG: read_channel: 
+2022-02-02 01:29:39.097 DEBUG: write_channel: b'hw-module session 0/3\n'
+2022-02-02 01:29:39.098 DEBUG: Pattern is: hw\-module\ session\ 0/3
+2022-02-02 01:29:39.149 DEBUG: _read_channel_expect read_data: hw
+2022-02-02 01:29:39.160 DEBUG: _read_channel_expect read_data: -mod
+2022-02-02 01:29:39.170 DEBUG: _read_channel_expect read_data: ule 
+2022-02-02 01:29:39.181 DEBUG: _read_channel_expect read_data: se
+2022-02-02 01:29:39.192 DEBUG: _read_channel_expect read_data: ssion
+2022-02-02 01:29:39.203 DEBUG: _read_channel_expect read_data:  0/3
+2022-02-02 01:29:39.203 DEBUG: Pattern found: hw\-module\ session\ 0/3 hw-module session 0/3
+2022-02-02 01:29:39.224 DEBUG: read_channel: 
+
+2022-02-02 01:29:39.245 DEBUG: read_channel: 
+2022-02-02 01:29:39.266 DEBUG: read_channel: 
+2022-02-02 01:29:39.287 DEBUG: read_channel: 
+2022-02-02 01:29:39.308 DEBUG: read_channel: 
+2022-02-02 01:29:39.329 DEBUG: read_channel: 
+2022-02-02 01:29:39.350 DEBUG: read_channel: 
+2022-02-02 01:29:39.370 DEBUG: read_channel: 
+2022-02-02 01:29:39.391 DEBUG: read_channel: 
+2022-02-02 01:29:39.412 DEBUG: read_channel: 
+2022-02-02 01:29:39.433 DEBUG: read_channel: 
+2022-02-02 01:29:39.454 DEBUG: read_channel: 
+2022-02-02 01:29:39.475 DEBUG: read_channel: 
+2022-02-02 01:29:39.496 DEBUG: read_channel: 
+2022-02-02 01:29:39.517 DEBUG: read_channel: 
+2022-02-02 01:29:39.538 DEBUG: read_channel: 
+2022-02-02 01:29:39.559 DEBUG: read_channel: 
+2022-02-02 01:29:39.579 DEBUG: read_channel: 
+2022-02-02 01:29:39.600 DEBUG: read_channel: 
+2022-02-02 01:29:39.621 DEBUG: read_channel: 
+2022-02-02 01:29:39.642 DEBUG: read_channel: 
+2022-02-02 01:29:39.663 DEBUG: read_channel: 
+2022-02-02 01:29:39.684 DEBUG: read_channel: 
+2022-02-02 01:29:39.705 DEBUG: read_channel: 
+2022-02-02 01:29:39.726 DEBUG: read_channel: 
+2022-02-02 01:29:39.747 DEBUG: read_channel: 
+2022-02-02 01:29:39.768 DEBUG: read_channel: 
+2022-02-02 01:29:39.789 DEBUG: read_channel: 
+2022-02-02 01:29:39.810 DEBUG: read_channel: 
+2022-02-02 01:29:39.831 DEBUG: read_channel: 
+2022-02-02 01:29:39.852 DEBUG: read_channel: 
+2022-02-02 01:29:39.873 DEBUG: read_channel: 
+2022-02-02 01:29:39.893 DEBUG: read_channel: 
+2022-02-02 01:29:39.914 DEBUG: read_channel: 
+2022-02-02 01:29:39.935 DEBUG: read_channel: 
+2022-02-02 01:29:39.956 DEBUG: read_channel: 
+2022-02-02 01:29:39.977 DEBUG: read_channel: 
+2022-02-02 01:29:39.998 DEBUG: read_channel: 
+2022-02-02 01:29:40.019 DEBUG: read_channel: 
+2022-02-02 01:29:40.040 DEBUG: read_channel: 
+2022-02-02 01:29:40.061 DEBUG: read_channel: 
+2022-02-02 01:29:40.082 DEBUG: read_channel: 
+2022-02-02 01:29:40.103 DEBUG: read_channel: 
+2022-02-02 01:29:40.124 DEBUG: read_channel: 
+2022-02-02 01:29:40.145 DEBUG: read_channel: 
+2022-02-02 01:29:40.166 DEBUG: read_channel: 
+2022-02-02 01:29:40.187 DEBUG: read_channel: 
+2022-02-02 01:29:40.208 DEBUG: read_channel: 
+2022-02-02 01:29:40.229 DEBUG: read_channel: 
+2022-02-02 01:29:40.250 DEBUG: read_channel: 
+2022-02-02 01:29:40.270 DEBUG: read_channel: 
+2022-02-02 01:29:40.291 DEBUG: read_channel: 
+2022-02-02 01:29:40.312 DEBUG: read_channel: 
+2022-02-02 01:29:40.333 DEBUG: read_channel: Establishing session connect to subslot 0/3
+
+2022-02-02 01:29:40.354 DEBUG: read_channel: 
+2022-02-02 01:29:40.375 DEBUG: read_channel: 
+2022-02-02 01:29:40.396 DEBUG: read_channel: 
+2022-02-02 01:29:40.417 DEBUG: read_channel: 
+2022-02-02 01:29:40.438 DEBUG: read_channel: 
+2022-02-02 01:29:40.460 DEBUG: read_channel: 
+2022-02-02 01:29:40.481 DEBUG: read_channel: 
+2022-02-02 01:29:40.502 DEBUG: read_channel: 
+2022-02-02 01:29:40.523 DEBUG: read_channel: 
+2022-02-02 01:29:40.544 DEBUG: read_channel: To exit, type ^a^q
+
+picocom v2.2
+
+port is        : /dev/ttyS3
+flowcontrol    : none
+baudrate is    : 9600
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+nolock is      : yes
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+logfile is     : none
+
+Type [C-a] [C-h] to see available commands
+
+Terminal ready
+
+2022-02-02 01:29:40.544 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:40.544 DEBUG: send_command_timing current output: 
+2022-02-02 01:29:40.646 DEBUG: read_channel: 
+User:
+2022-02-02 01:29:40.746 DEBUG: read_channel: 
+2022-02-02 01:29:42.749 DEBUG: read_channel: 
+2022-02-02 01:29:42.749 DEBUG: send_command_timing final output: User:
+2022-02-02 01:29:42.760 DEBUG: read_channel: 
+2022-02-02 01:29:42.760 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:42.771 DEBUG: read_channel: 
+2022-02-02 01:29:42.771 DEBUG: read_channel: 
+2022-02-02 01:29:42.771 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:42.782 DEBUG: read_channel: 
+2022-02-02 01:29:42.782 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:42.803 DEBUG: read_channel: 
+2022-02-02 01:29:42.803 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:42.844 DEBUG: read_channel: 
+User:
+2022-02-02 01:29:42.866 DEBUG: read_channel: 
+2022-02-02 01:29:42.866 DEBUG: [find_prompt()]: prompt is User:
+2022-02-02 01:29:42.898 DEBUG: read_channel: 
+User:
+2022-02-02 01:29:42.898 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:29:42.919 DEBUG: read_channel: 
+2022-02-02 01:29:42.919 DEBUG: write_channel: b'admin\n'
+2022-02-02 01:29:42.919 DEBUG: Pattern is: admin
+2022-02-02 01:29:42.976 DEBUG: _read_channel_expect read_data: 
+User:
+User:
+2022-02-02 01:29:43.176 DEBUG: _read_channel_expect read_data: admin
+Password:
+2022-02-02 01:29:43.177 DEBUG: Pattern found: admin 
+User:
+User:admin
+Password:
+2022-02-02 01:29:43.178 DEBUG: write_channel: b'cisco!123\n'
+2022-02-02 01:29:43.178 DEBUG: send_command_timing current output: 
+2022-02-02 01:29:43.279 DEBUG: read_channel: ********
+2022-02-02 01:29:43.379 DEBUG: read_channel: 
+2022-02-02 01:29:45.383 DEBUG: read_channel: *
+ Warning: Missing TFTP/CCO params, Please Configure the Image Download Params
+
+Welcome to the Cisco Mobility Express command line interface.
+Only commands which are listed in the command reference guide for this release are supported.
+http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-reference-list.html
+(Cisco Controller) >
+2022-02-02 01:29:45.483 DEBUG: read_channel: 
+2022-02-02 01:29:47.486 DEBUG: read_channel: 
+2022-02-02 01:29:47.495 DEBUG: send_command_timing final output: *********
+ Warning: Missing TFTP/CCO params, Please Configure the Image Download Params
+
+Welcome to the Cisco Mobility Express command line interface.
+Only commands which are listed in the command reference guide for this release are supported.
+http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-reference-list.html
+(Cisco Controller) >
+2022-02-02 01:29:47.495 DEBUG: write_channel: b'\x1a\n'
+2022-02-02 01:29:47.495 DEBUG: send_command_timing current output: 
+2022-02-02 01:29:47.596 DEBUG: read_channel: 
+(Cisc
+2022-02-02 01:29:47.697 DEBUG: read_channel: 
+2022-02-02 01:29:49.699 DEBUG: read_channel: o Controller) >
+(Cisco Controller) >
+2022-02-02 01:29:49.800 DEBUG: read_channel: 
+2022-02-02 01:29:51.803 DEBUG: read_channel: 
+2022-02-02 01:29:51.803 DEBUG: send_command_timing final output: 
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:29:51.803 DEBUG: write_channel: b'\n'
+2022-02-02 01:29:51.803 DEBUG: send_command_timing current output: 
+2022-02-02 01:29:51.904 DEBUG: read_channel: 
+(Cisc
+2022-02-02 01:29:52.004 DEBUG: read_channel: 
+2022-02-02 01:29:54.007 DEBUG: read_channel: o Controller) >
+2022-02-02 01:29:54.108 DEBUG: read_channel: 
+2022-02-02 01:29:56.111 DEBUG: read_channel: 
+2022-02-02 01:29:56.111 DEBUG: send_command_timing final output: (Cisco Controller) >
+2022-02-02 01:29:56.111 DEBUG: In disable_paging
+2022-02-02 01:29:56.111 DEBUG: Command: config paging disable
+
+2022-02-02 01:29:56.111 DEBUG: write_channel: b'config paging disable\n'
+2022-02-02 01:29:56.111 DEBUG: Pattern is: config\ paging\ disable
+2022-02-02 01:29:56.201 DEBUG: _read_channel_expect read_data: config p
+2022-02-02 01:29:56.403 DEBUG: _read_channel_expect read_data: aging disable
+
+
+(Cisco Controller) >
+2022-02-02 01:29:56.403 DEBUG: Pattern found: config\ paging\ disable config paging disable
+
+
+(Cisco Controller) >
+2022-02-02 01:29:56.403 DEBUG: config paging disable
+
+
+(Cisco Controller) >
+2022-02-02 01:29:56.403 DEBUG: Exiting disable_paging
+2022-02-02 01:29:56.403 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:29:56.403 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:29:56.403 DEBUG: 10.88.174.137: config = config acl delete ONGUARD-EPP-ACL 
+2022-02-02 01:29:56.435 DEBUG: read_channel: 
+2022-02-02 01:29:56.435 DEBUG: write_channel: b'config acl delete ONGUARD-EPP-ACL\n'
+2022-02-02 01:29:56.435 DEBUG: Pattern is: config\ acl\ delete\ ONGUARD\-EPP\-ACL
+2022-02-02 01:29:56.541 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:56.739 DEBUG: _read_channel_expect read_data: cl delete ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:29:56.739 DEBUG: Pattern found: config\ acl\ delete\ ONGUARD\-EPP\-ACL config acl delete ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:29:56.739 DEBUG: 10.88.174.137: config = config acl create ONGUARD-EPP-ACL 
+2022-02-02 01:29:56.771 DEBUG: read_channel: 
+2022-02-02 01:29:56.771 DEBUG: write_channel: b'config acl create ONGUARD-EPP-ACL\n'
+2022-02-02 01:29:56.771 DEBUG: Pattern is: config\ acl\ create\ ONGUARD\-EPP\-ACL
+2022-02-02 01:29:56.870 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:57.070 DEBUG: _read_channel_expect read_data: cl create ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:29:57.070 DEBUG: Pattern found: config\ acl\ create\ ONGUARD\-EPP\-ACL config acl create ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:29:57.071 DEBUG: 10.88.174.137: config = config acl rule add ONGUARD-EPP-ACL 1 
+2022-02-02 01:29:57.102 DEBUG: read_channel: 
+2022-02-02 01:29:57.103 DEBUG: write_channel: b'config acl rule add ONGUARD-EPP-ACL 1\n'
+2022-02-02 01:29:57.103 DEBUG: Pattern is: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 1
+2022-02-02 01:29:57.204 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:57.403 DEBUG: _read_channel_expect read_data: cl rule add ONGUARD-EPP-ACL 1
+
+
+(Cisco Controller) >
+2022-02-02 01:29:57.404 DEBUG: Pattern found: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 1 config acl rule add ONGUARD-EPP-ACL 1
+
+
+(Cisco Controller) >
+2022-02-02 01:29:57.404 DEBUG: 10.88.174.137: config = config acl rule action ONGUARD-EPP-ACL 1 permit 
+2022-02-02 01:29:57.435 DEBUG: read_channel: 
+2022-02-02 01:29:57.436 DEBUG: write_channel: b'config acl rule action ONGUARD-EPP-ACL 1 permit\n'
+2022-02-02 01:29:57.436 DEBUG: Pattern is: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 1\ permit
+2022-02-02 01:29:57.549 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:57.750 DEBUG: _read_channel_expect read_data: cl rule action ONGUARD-EPP-ACL 1 permit
+2022-02-02 01:29:57.750 DEBUG: Pattern found: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 1\ permit config acl rule action ONGUARD-EPP-ACL 1 permit
+2022-02-02 01:29:57.770 DEBUG: read_channel: 
+
+
+(Cisco Controller) >
+2022-02-02 01:29:57.771 DEBUG: 10.88.174.137: config = config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0 
+2022-02-02 01:29:57.802 DEBUG: read_channel: 
+2022-02-02 01:29:57.803 DEBUG: write_channel: b'config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:29:57.803 DEBUG: Pattern is: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:29:57.939 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:58.139 DEBUG: _read_channel_expect read_data: cl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:29:58.139 DEBUG: Pattern found: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:29:58.160 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:29:58.160 DEBUG: 10.88.174.137: config = config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535 
+2022-02-02 01:29:58.191 DEBUG: read_channel: 
+2022-02-02 01:29:58.191 DEBUG: write_channel: b'config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535\n'
+2022-02-02 01:29:58.191 DEBUG: Pattern is: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 0\ 65535
+2022-02-02 01:29:58.322 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:58.521 DEBUG: _read_channel_expect read_data: cl rule destination port range ONGUARD-EPP-ACL 1 0 65535
+
+
+2022-02-02 01:29:58.521 DEBUG: Pattern found: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 0\ 65535 config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535
+
+
+2022-02-02 01:29:58.541 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:29:58.542 DEBUG: 10.88.174.137: config = config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0 
+2022-02-02 01:29:58.573 DEBUG: read_channel: 
+2022-02-02 01:29:58.573 DEBUG: write_channel: b'config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:29:58.573 DEBUG: Pattern is: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:29:58.704 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:58.904 DEBUG: _read_channel_expect read_data: cl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:29:58.904 DEBUG: Pattern found: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:29:58.904 DEBUG: 10.88.174.137: config = config acl rule source port range ONGUARD-EPP-ACL 1 53 53 
+2022-02-02 01:29:58.942 DEBUG: read_channel: 
+2022-02-02 01:29:58.943 DEBUG: write_channel: b'config acl rule source port range ONGUARD-EPP-ACL 1 53 53\n'
+2022-02-02 01:29:58.943 DEBUG: Pattern is: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 53\ 53
+2022-02-02 01:29:59.075 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:59.273 DEBUG: _read_channel_expect read_data: cl rule source port range ONGUARD-EPP-ACL 1 53 53
+
+
+2022-02-02 01:29:59.273 DEBUG: Pattern found: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 53\ 53 config acl rule source port range ONGUARD-EPP-ACL 1 53 53
+
+
+2022-02-02 01:29:59.294 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:29:59.294 DEBUG: 10.88.174.137: config = config acl rule direction ONGUARD-EPP-ACL 1 Any  
+2022-02-02 01:29:59.326 DEBUG: read_channel: 
+2022-02-02 01:29:59.326 DEBUG: write_channel: b'config acl rule direction ONGUARD-EPP-ACL 1 Any\n'
+2022-02-02 01:29:59.326 DEBUG: Pattern is: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 1\ Any
+2022-02-02 01:29:59.439 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:29:59.635 DEBUG: _read_channel_expect read_data: cl rule direction ONGUARD-EPP-ACL 1 Any
+
+
+2022-02-02 01:29:59.635 DEBUG: Pattern found: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 1\ Any config acl rule direction ONGUARD-EPP-ACL 1 Any
+
+
+2022-02-02 01:29:59.656 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:29:59.656 DEBUG: 10.88.174.137: config = config acl rule dscp ONGUARD-EPP-ACL 1  Any  
+2022-02-02 01:29:59.687 DEBUG: read_channel: 
+2022-02-02 01:29:59.687 DEBUG: write_channel: b'config acl rule dscp ONGUARD-EPP-ACL 1  Any\n'
+2022-02-02 01:29:59.687 DEBUG: Pattern is: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 1\ \ Any
+2022-02-02 01:29:59.800 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:00.006 DEBUG: _read_channel_expect read_data: cl rule dscp ONGUARD-EPP-ACL 1  Any
+
+2022-02-02 01:30:00.006 DEBUG: Pattern found: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 1\ \ Any config acl rule dscp ONGUARD-EPP-ACL 1  Any
+
+2022-02-02 01:30:00.027 DEBUG: read_channel: 
+
+(Cisco Controller) >
+2022-02-02 01:30:00.027 DEBUG: 10.88.174.137: config = config acl rule protocol ONGUARD-EPP-ACL 1   17  
+2022-02-02 01:30:00.059 DEBUG: read_channel: 
+2022-02-02 01:30:00.059 DEBUG: write_channel: b'config acl rule protocol ONGUARD-EPP-ACL 1   17\n'
+2022-02-02 01:30:00.059 DEBUG: Pattern is: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 1\ \ \ 17
+2022-02-02 01:30:00.170 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:00.372 DEBUG: _read_channel_expect read_data: cl rule protocol ONGUARD-EPP-ACL 1   17
+
+
+2022-02-02 01:30:00.373 DEBUG: Pattern found: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 1\ \ \ 17 config acl rule protocol ONGUARD-EPP-ACL 1   17
+
+
+2022-02-02 01:30:00.394 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:00.394 DEBUG: 10.88.174.137: config = config acl rule add ONGUARD-EPP-ACL 2 
+2022-02-02 01:30:00.426 DEBUG: read_channel: 
+2022-02-02 01:30:00.426 DEBUG: write_channel: b'config acl rule add ONGUARD-EPP-ACL 2\n'
+2022-02-02 01:30:00.426 DEBUG: Pattern is: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 2
+2022-02-02 01:30:00.528 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:00.727 DEBUG: _read_channel_expect read_data: cl rule add ONGUARD-EPP-ACL 2
+
+
+2022-02-02 01:30:00.727 DEBUG: Pattern found: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 2 config acl rule add ONGUARD-EPP-ACL 2
+
+
+2022-02-02 01:30:00.748 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:00.748 DEBUG: 10.88.174.137: config = config acl rule action ONGUARD-EPP-ACL 2 permit 
+2022-02-02 01:30:00.780 DEBUG: read_channel: 
+2022-02-02 01:30:00.780 DEBUG: write_channel: b'config acl rule action ONGUARD-EPP-ACL 2 permit\n'
+2022-02-02 01:30:00.780 DEBUG: Pattern is: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 2\ permit
+2022-02-02 01:30:00.892 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:01.091 DEBUG: _read_channel_expect read_data: cl rule action ONGUARD-EPP-ACL 2 permit
+
+
+2022-02-02 01:30:01.091 DEBUG: Pattern found: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 2\ permit config acl rule action ONGUARD-EPP-ACL 2 permit
+
+
+2022-02-02 01:30:01.111 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:01.111 DEBUG: 10.88.174.137: config = config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:01.143 DEBUG: read_channel: 
+2022-02-02 01:30:01.143 DEBUG: write_channel: b'config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:01.143 DEBUG: Pattern is: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:01.282 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:01.480 DEBUG: _read_channel_expect read_data: cl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:01.480 DEBUG: Pattern found: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:01.501 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:01.501 DEBUG: 10.88.174.137: config = config acl rule destination port range ONGUARD-EPP-ACL 2 53 53 
+2022-02-02 01:30:01.533 DEBUG: read_channel: 
+2022-02-02 01:30:01.533 DEBUG: write_channel: b'config acl rule destination port range ONGUARD-EPP-ACL 2 53 53\n'
+2022-02-02 01:30:01.533 DEBUG: Pattern is: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 53\ 53
+2022-02-02 01:30:01.662 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:01.859 DEBUG: _read_channel_expect read_data: cl rule destination port range ONGUARD-EPP-ACL 2 53 53
+
+
+2022-02-02 01:30:01.859 DEBUG: Pattern found: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 53\ 53 config acl rule destination port range ONGUARD-EPP-ACL 2 53 53
+
+
+2022-02-02 01:30:01.879 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:01.880 DEBUG: 10.88.174.137: config = config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:01.911 DEBUG: read_channel: 
+2022-02-02 01:30:01.912 DEBUG: write_channel: b'config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:01.912 DEBUG: Pattern is: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:02.045 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:02.246 DEBUG: _read_channel_expect read_data: cl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:02.247 DEBUG: Pattern found: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:02.247 DEBUG: 10.88.174.137: config = config acl rule source port range ONGUARD-EPP-ACL 2 0 65535 
+2022-02-02 01:30:02.278 DEBUG: read_channel: 
+2022-02-02 01:30:02.278 DEBUG: write_channel: b'config acl rule source port range ONGUARD-EPP-ACL 2 0 65535\n'
+2022-02-02 01:30:02.278 DEBUG: Pattern is: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 0\ 65535
+2022-02-02 01:30:02.404 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:02.602 DEBUG: _read_channel_expect read_data: cl rule source port range ONGUARD-EPP-ACL 2 0 65535
+
+2022-02-02 01:30:02.603 DEBUG: Pattern found: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 0\ 65535 config acl rule source port range ONGUARD-EPP-ACL 2 0 65535
+
+2022-02-02 01:30:02.623 DEBUG: read_channel: 
+
+(Cisco Controller) >
+2022-02-02 01:30:02.623 DEBUG: 10.88.174.137: config = config acl rule direction ONGUARD-EPP-ACL 2 Any  
+2022-02-02 01:30:02.655 DEBUG: read_channel: 
+2022-02-02 01:30:02.655 DEBUG: write_channel: b'config acl rule direction ONGUARD-EPP-ACL 2 Any\n'
+2022-02-02 01:30:02.655 DEBUG: Pattern is: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 2\ Any
+2022-02-02 01:30:02.768 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:02.970 DEBUG: _read_channel_expect read_data: cl rule direction ONGUARD-EPP-ACL 2 Any
+
+
+2022-02-02 01:30:02.970 DEBUG: Pattern found: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 2\ Any config acl rule direction ONGUARD-EPP-ACL 2 Any
+
+
+2022-02-02 01:30:02.991 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:02.991 DEBUG: 10.88.174.137: config = config acl rule dscp ONGUARD-EPP-ACL 2  Any  
+2022-02-02 01:30:03.023 DEBUG: read_channel: 
+2022-02-02 01:30:03.023 DEBUG: write_channel: b'config acl rule dscp ONGUARD-EPP-ACL 2  Any\n'
+2022-02-02 01:30:03.023 DEBUG: Pattern is: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 2\ \ Any
+2022-02-02 01:30:03.135 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:03.335 DEBUG: _read_channel_expect read_data: cl rule dscp ONGUARD-EPP-ACL 2  Any
+2022-02-02 01:30:03.335 DEBUG: Pattern found: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 2\ \ Any config acl rule dscp ONGUARD-EPP-ACL 2  Any
+2022-02-02 01:30:03.356 DEBUG: read_channel: 
+
+
+(Cisco Controller) >
+2022-02-02 01:30:03.356 DEBUG: 10.88.174.137: config = config acl rule protocol ONGUARD-EPP-ACL 2   17  
+2022-02-02 01:30:03.388 DEBUG: read_channel: 
+2022-02-02 01:30:03.388 DEBUG: write_channel: b'config acl rule protocol ONGUARD-EPP-ACL 2   17\n'
+2022-02-02 01:30:03.388 DEBUG: Pattern is: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 2\ \ \ 17
+2022-02-02 01:30:03.502 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:03.702 DEBUG: _read_channel_expect read_data: cl rule protocol ONGUARD-EPP-ACL 2   17
+
+
+2022-02-02 01:30:03.703 DEBUG: Pattern found: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 2\ \ \ 17 config acl rule protocol ONGUARD-EPP-ACL 2   17
+
+
+2022-02-02 01:30:03.723 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:03.723 DEBUG: 10.88.174.137: config = config acl rule add ONGUARD-EPP-ACL 3 
+2022-02-02 01:30:03.755 DEBUG: read_channel: 
+2022-02-02 01:30:03.755 DEBUG: write_channel: b'config acl rule add ONGUARD-EPP-ACL 3\n'
+2022-02-02 01:30:03.755 DEBUG: Pattern is: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 3
+2022-02-02 01:30:03.861 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:04.059 DEBUG: _read_channel_expect read_data: cl rule add ONGUARD-EPP-ACL 3
+
+
+2022-02-02 01:30:04.059 DEBUG: Pattern found: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 3 config acl rule add ONGUARD-EPP-ACL 3
+
+
+2022-02-02 01:30:04.080 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:04.080 DEBUG: 10.88.174.137: config = config acl rule action ONGUARD-EPP-ACL 3 permit 
+2022-02-02 01:30:04.111 DEBUG: read_channel: 
+2022-02-02 01:30:04.111 DEBUG: write_channel: b'config acl rule action ONGUARD-EPP-ACL 3 permit\n'
+2022-02-02 01:30:04.111 DEBUG: Pattern is: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 3\ permit
+2022-02-02 01:30:04.232 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:04.432 DEBUG: _read_channel_expect read_data: cl rule action ONGUARD-EPP-ACL 3 permit
+
+
+2022-02-02 01:30:04.432 DEBUG: Pattern found: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 3\ permit config acl rule action ONGUARD-EPP-ACL 3 permit
+
+
+2022-02-02 01:30:04.452 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:04.453 DEBUG: 10.88.174.137: config = config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:04.484 DEBUG: read_channel: 
+2022-02-02 01:30:04.485 DEBUG: write_channel: b'config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:04.485 DEBUG: Pattern is: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:04.622 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:04.820 DEBUG: _read_channel_expect read_data: cl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:04.820 DEBUG: Pattern found: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:04.842 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:04.842 DEBUG: 10.88.174.137: config = config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535 
+2022-02-02 01:30:04.873 DEBUG: read_channel: 
+2022-02-02 01:30:04.874 DEBUG: write_channel: b'config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535\n'
+2022-02-02 01:30:04.874 DEBUG: Pattern is: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535
+2022-02-02 01:30:05.006 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:05.203 DEBUG: _read_channel_expect read_data: cl rule destination port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:05.203 DEBUG: Pattern found: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535 config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:05.203 DEBUG: 10.88.174.137: config = config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:05.234 DEBUG: read_channel: 
+2022-02-02 01:30:05.235 DEBUG: write_channel: b'config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:05.235 DEBUG: Pattern is: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:05.363 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:05.565 DEBUG: _read_channel_expect read_data: cl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:05.566 DEBUG: Pattern found: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:05.566 DEBUG: 10.88.174.137: config = config acl rule source port range ONGUARD-EPP-ACL 3 0 65535 
+2022-02-02 01:30:05.598 DEBUG: read_channel: 
+2022-02-02 01:30:05.598 DEBUG: write_channel: b'config acl rule source port range ONGUARD-EPP-ACL 3 0 65535\n'
+2022-02-02 01:30:05.598 DEBUG: Pattern is: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535
+2022-02-02 01:30:05.726 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:05.929 DEBUG: _read_channel_expect read_data: cl rule source port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:05.929 DEBUG: Pattern found: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535 config acl rule source port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:05.929 DEBUG: 10.88.174.137: config = config acl rule direction ONGUARD-EPP-ACL 3 Any  
+2022-02-02 01:30:05.961 DEBUG: read_channel: 
+2022-02-02 01:30:05.961 DEBUG: write_channel: b'config acl rule direction ONGUARD-EPP-ACL 3 Any\n'
+2022-02-02 01:30:05.961 DEBUG: Pattern is: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 3\ Any
+2022-02-02 01:30:06.075 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:06.277 DEBUG: _read_channel_expect read_data: cl rule direction ONGUARD-EPP-ACL 3 Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:06.277 DEBUG: Pattern found: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 3\ Any config acl rule direction ONGUARD-EPP-ACL 3 Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:06.277 DEBUG: 10.88.174.137: config = config acl rule dscp ONGUARD-EPP-ACL 3  Any  
+2022-02-02 01:30:06.309 DEBUG: read_channel: 
+2022-02-02 01:30:06.309 DEBUG: write_channel: b'config acl rule dscp ONGUARD-EPP-ACL 3  Any\n'
+2022-02-02 01:30:06.309 DEBUG: Pattern is: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 3\ \ Any
+2022-02-02 01:30:06.418 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:06.615 DEBUG: _read_channel_expect read_data: cl rule dscp ONGUARD-EPP-ACL 3  Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:06.615 DEBUG: Pattern found: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 3\ \ Any config acl rule dscp ONGUARD-EPP-ACL 3  Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:06.615 DEBUG: 10.88.174.137: config = config acl rule protocol ONGUARD-EPP-ACL 3  1
+2022-02-02 01:30:06.647 DEBUG: read_channel: 
+2022-02-02 01:30:06.647 DEBUG: write_channel: b'config acl rule protocol ONGUARD-EPP-ACL 3  1\n'
+2022-02-02 01:30:06.647 DEBUG: Pattern is: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 3\ \ 1
+2022-02-02 01:30:06.757 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:06.958 DEBUG: _read_channel_expect read_data: cl rule protocol ONGUARD-EPP-ACL 3  1
+
+
+(Cisco Controller) >
+2022-02-02 01:30:06.958 DEBUG: Pattern found: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 3\ \ 1 config acl rule protocol ONGUARD-EPP-ACL 3  1
+
+
+(Cisco Controller) >
+2022-02-02 01:30:06.958 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:30:06.959 DEBUG: In disable_paging
+2022-02-02 01:30:06.959 DEBUG: Command: config paging enable
+
+2022-02-02 01:30:06.959 DEBUG: write_channel: b'config paging enable\n'
+2022-02-02 01:30:06.959 DEBUG: Pattern is: config\ paging\ enable
+2022-02-02 01:30:07.039 DEBUG: _read_channel_expect read_data: config p
+2022-02-02 01:30:07.238 DEBUG: _read_channel_expect read_data: aging enable
+
+
+(Cisco Controller) >
+2022-02-02 01:30:07.238 DEBUG: Pattern found: config\ paging\ enable config paging enable
+
+
+(Cisco Controller) >
+2022-02-02 01:30:07.238 DEBUG: config paging enable
+
+
+(Cisco Controller) >
+2022-02-02 01:30:07.238 DEBUG: Exiting disable_paging
+2022-02-02 01:30:07.270 DEBUG: read_channel: 
+2022-02-02 01:30:07.271 DEBUG: write_channel: b'save config\n'
+2022-02-02 01:30:07.271 DEBUG: Pattern is: save\ config
+2022-02-02 01:30:07.348 DEBUG: _read_channel_expect read_data: save con
+2022-02-02 01:30:07.543 DEBUG: _read_channel_expect read_data: fig
+
+Are you sure you want to save? (y/n) 
+2022-02-02 01:30:07.543 DEBUG: Pattern found: save\ config save config
+
+Are you sure you want to save? (y/n) 
+2022-02-02 01:30:07.575 DEBUG: read_channel: 
+2022-02-02 01:30:07.575 DEBUG: write_channel: b'y\n'
+2022-02-02 01:30:07.575 DEBUG: Pattern is: y
+2022-02-02 01:30:07.647 DEBUG: _read_channel_expect read_data: y
+2022-02-02 01:30:07.647 DEBUG: Pattern found: y y
+2022-02-02 01:30:07.668 DEBUG: read_channel: 
+
+2022-02-02 01:30:07.688 DEBUG: read_channel: 
+2022-02-02 01:30:07.709 DEBUG: read_channel: 
+2022-02-02 01:30:07.729 DEBUG: read_channel: 
+2022-02-02 01:30:07.750 DEBUG: read_channel: 
+2022-02-02 01:30:07.771 DEBUG: read_channel: 
+2022-02-02 01:30:07.792 DEBUG: read_channel: 
+2022-02-02 01:30:07.813 DEBUG: read_channel: 
+2022-02-02 01:30:07.834 DEBUG: read_channel: 
+2022-02-02 01:30:07.855 DEBUG: read_channel: 
+2022-02-02 01:30:07.876 DEBUG: read_channel: 
+2022-02-02 01:30:07.897 DEBUG: read_channel: 
+2022-02-02 01:30:07.918 DEBUG: read_channel: 
+2022-02-02 01:30:07.939 DEBUG: read_channel: 
+2022-02-02 01:30:07.960 DEBUG: read_channel: 
+2022-02-02 01:30:07.980 DEBUG: read_channel: 
+2022-02-02 01:30:08.001 DEBUG: read_channel: 
+2022-02-02 01:30:08.021 DEBUG: read_channel: 
+2022-02-02 01:30:08.042 DEBUG: read_channel: 
+2022-02-02 01:30:08.062 DEBUG: read_channel: 
+2022-02-02 01:30:08.083 DEBUG: read_channel: 
+2022-02-02 01:30:08.104 DEBUG: read_channel: 
+2022-02-02 01:30:08.125 DEBUG: read_channel: 
+2022-02-02 01:30:08.145 DEBUG: read_channel: 
+2022-02-02 01:30:08.166 DEBUG: read_channel: 
+2022-02-02 01:30:08.187 DEBUG: read_channel: 
+2022-02-02 01:30:08.208 DEBUG: read_channel: 
+2022-02-02 01:30:08.229 DEBUG: read_channel: 
+2022-02-02 01:30:08.250 DEBUG: read_channel: 
+2022-02-02 01:30:08.271 DEBUG: read_channel: 
+2022-02-02 01:30:08.292 DEBUG: read_channel: 
+2022-02-02 01:30:08.313 DEBUG: read_channel: 
+2022-02-02 01:30:08.334 DEBUG: read_channel: 
+2022-02-02 01:30:08.355 DEBUG: read_channel: 
+2022-02-02 01:30:08.376 DEBUG: read_channel: 
+2022-02-02 01:30:08.397 DEBUG: read_channel: 
+2022-02-02 01:30:08.417 DEBUG: read_channel: 
+2022-02-02 01:30:08.437 DEBUG: read_channel: 
+2022-02-02 01:30:08.458 DEBUG: read_channel: 
+2022-02-02 01:30:08.479 DEBUG: read_channel: 
+2022-02-02 01:30:08.500 DEBUG: read_channel: 
+2022-02-02 01:30:08.521 DEBUG: read_channel: 
+2022-02-02 01:30:08.541 DEBUG: read_channel: 
+2022-02-02 01:30:08.562 DEBUG: read_channel: 
+2022-02-02 01:30:08.583 DEBUG: read_channel: 
+2022-02-02 01:30:08.604 DEBUG: read_channel: 
+2022-02-02 01:30:08.625 DEBUG: read_channel: 
+2022-02-02 01:30:08.646 DEBUG: read_channel: 
+2022-02-02 01:30:08.667 DEBUG: read_channel: 
+2022-02-02 01:30:08.687 DEBUG: read_channel: 
+2022-02-02 01:30:08.708 DEBUG: read_channel: 
+2022-02-02 01:30:08.729 DEBUG: read_channel: 
+2022-02-02 01:30:08.750 DEBUG: read_channel: 
+2022-02-02 01:30:08.771 DEBUG: read_channel: 
+2022-02-02 01:30:08.792 DEBUG: read_channel: 
+2022-02-02 01:30:08.813 DEBUG: read_channel: 
+2022-02-02 01:30:08.834 DEBUG: read_channel: 
+2022-02-02 01:30:08.855 DEBUG: read_channel: 
+2022-02-02 01:30:08.876 DEBUG: read_channel: 
+2022-02-02 01:30:08.897 DEBUG: read_channel: 
+2022-02-02 01:30:08.918 DEBUG: read_channel: 
+2022-02-02 01:30:08.939 DEBUG: read_channel: 
+2022-02-02 01:30:08.960 DEBUG: read_channel: 
+2022-02-02 01:30:08.981 DEBUG: read_channel: 
+2022-02-02 01:30:09.001 DEBUG: read_channel: 
+2022-02-02 01:30:09.022 DEBUG: read_channel: 
+2022-02-02 01:30:09.043 DEBUG: read_channel: 
+2022-02-02 01:30:09.064 DEBUG: read_channel: 
+2022-02-02 01:30:09.085 DEBUG: read_channel: 
+2022-02-02 01:30:09.106 DEBUG: read_channel: 
+2022-02-02 01:30:09.127 DEBUG: read_channel: 
+2022-02-02 01:30:09.148 DEBUG: read_channel: 
+2022-02-02 01:30:09.169 DEBUG: read_channel: 
+2022-02-02 01:30:09.190 DEBUG: read_channel: 
+2022-02-02 01:30:09.211 DEBUG: read_channel: 
+2022-02-02 01:30:09.232 DEBUG: read_channel: 
+2022-02-02 01:30:09.253 DEBUG: read_channel: 
+2022-02-02 01:30:09.274 DEBUG: read_channel: 
+2022-02-02 01:30:09.295 DEBUG: read_channel: 
+2022-02-02 01:30:09.316 DEBUG: read_channel: 
+2022-02-02 01:30:09.337 DEBUG: read_channel: 
+2022-02-02 01:30:09.358 DEBUG: read_channel: 
+2022-02-02 01:30:09.379 DEBUG: read_channel: 
+2022-02-02 01:30:09.399 DEBUG: read_channel: 
+2022-02-02 01:30:09.420 DEBUG: read_channel: 
+
+Co
+2022-02-02 01:30:09.441 DEBUG: read_channel: 
+2022-02-02 01:30:09.462 DEBUG: read_channel: 
+2022-02-02 01:30:09.483 DEBUG: read_channel: 
+2022-02-02 01:30:09.504 DEBUG: read_channel: 
+2022-02-02 01:30:09.525 DEBUG: read_channel: 
+2022-02-02 01:30:09.546 DEBUG: read_channel: 
+2022-02-02 01:30:09.567 DEBUG: read_channel: 
+2022-02-02 01:30:09.588 DEBUG: read_channel: 
+2022-02-02 01:30:09.609 DEBUG: read_channel: 
+2022-02-02 01:30:09.630 DEBUG: read_channel: nfiguration Saved!
+
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:30:09.641 DEBUG: read_channel: 
+2022-02-02 01:30:09.641 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:09.654 DEBUG: read_channel: 
+2022-02-02 01:30:09.654 DEBUG: read_channel: 
+2022-02-02 01:30:09.655 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:09.666 DEBUG: read_channel: 
+2022-02-02 01:30:09.666 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:09.687 DEBUG: read_channel: 
+2022-02-02 01:30:09.687 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:09.728 DEBUG: read_channel: 
+(Cisc
+2022-02-02 01:30:09.750 DEBUG: read_channel: 
+2022-02-02 01:30:09.750 DEBUG: [find_prompt()]: prompt is (Cisc
+2022-02-02 01:30:09.750 DEBUG: write_channel: b'\x1a\n'
+2022-02-02 01:30:09.750 DEBUG: send_command_timing current output: 
+2022-02-02 01:30:09.850 DEBUG: read_channel: o Controller) >
+(Cisco Controller) >
+(Cisco Control
+2022-02-02 01:30:09.951 DEBUG: read_channel: 
+2022-02-02 01:30:11.953 DEBUG: read_channel: ler) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:30:12.054 DEBUG: read_channel: 
+2022-02-02 01:30:14.056 DEBUG: read_channel: 
+2022-02-02 01:30:14.056 DEBUG: send_command_timing final output: o Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:30:14.088 DEBUG: read_channel: 
+2022-02-02 01:30:14.088 DEBUG: write_channel: b'logout\n'
+2022-02-02 01:30:14.088 DEBUG: Pattern is: logout
+2022-02-02 01:30:14.160 DEBUG: _read_channel_expect read_data: logout
+2022-02-02 01:30:14.160 DEBUG: Pattern found: logout logout
+2022-02-02 01:30:14.181 DEBUG: read_channel: 
+2022-02-02 01:30:14.202 DEBUG: read_channel: 
+2022-02-02 01:30:14.223 DEBUG: read_channel: 
+2022-02-02 01:30:14.243 DEBUG: read_channel: 
+2022-02-02 01:30:14.264 DEBUG: read_channel: 
+2022-02-02 01:30:14.285 DEBUG: read_channel: 
+2022-02-02 01:30:14.306 DEBUG: read_channel: 
+2022-02-02 01:30:14.327 DEBUG: read_channel: 
+2022-02-02 01:30:14.348 DEBUG: read_channel: 
+2022-02-02 01:30:14.369 DEBUG: read_channel: 
+(Cisco Controller) 
+User: 
+2022-02-02 01:30:14.381 DEBUG: read_channel: 
+2022-02-02 01:30:14.381 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:14.392 DEBUG: read_channel: 
+2022-02-02 01:30:14.392 DEBUG: read_channel: 
+2022-02-02 01:30:14.393 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:14.403 DEBUG: read_channel: 
+2022-02-02 01:30:14.403 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:14.424 DEBUG: read_channel: 
+2022-02-02 01:30:14.424 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:14.465 DEBUG: read_channel: 
+User:
+2022-02-02 01:30:14.486 DEBUG: read_channel: 
+2022-02-02 01:30:14.487 DEBUG: [find_prompt()]: prompt is User:
+2022-02-02 01:30:14.487 DEBUG: write_channel: b'\x01\x11\n'
+2022-02-02 01:30:14.487 DEBUG: send_command_timing current output: 
+2022-02-02 01:30:14.588 DEBUG: read_channel: 
+User:
+User:
+User:
+2022-02-02 01:30:14.688 DEBUG: read_channel: 
+2022-02-02 01:30:16.691 DEBUG: read_channel: 
+Thanks for using picocom
+111-4#
+2022-02-02 01:30:16.792 DEBUG: read_channel: 
+2022-02-02 01:30:18.795 DEBUG: read_channel: 
+2022-02-02 01:30:18.795 DEBUG: send_command_timing final output: 
+User:
+User:
+User:
+Thanks for using picocom
+2022-02-02 01:30:18.805 DEBUG: read_channel: 
+2022-02-02 01:30:18.806 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:18.816 DEBUG: read_channel: 
+2022-02-02 01:30:18.816 DEBUG: read_channel: 
+2022-02-02 01:30:18.817 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:18.827 DEBUG: read_channel: 
+2022-02-02 01:30:18.828 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:18.848 DEBUG: read_channel: 
+2022-02-02 01:30:18.849 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:18.889 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:30:18.910 DEBUG: read_channel: 
+2022-02-02 01:30:18.911 DEBUG: [find_prompt()]: prompt is 111-4#
+2022-02-02 01:30:18.911 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:19.012 DEBUG: read_channel: 
+111-4#
+111-4#
+111-4#
+111-4#
+2022-02-02 01:30:19.113 DEBUG: read_channel: 
+2022-02-02 01:30:21.115 DEBUG: read_channel: 
+2022-02-02 01:30:21.116 DEBUG: write_channel: b'exit\n'
+2022-02-02 01:30:21.116 INFO: 10.88.174.137: disconnected
+2022-02-02 01:30:28.789 INFO: starting the program.
+2022-02-02 01:30:28.789 INFO: Loading inventory done.
+2022-02-02 01:30:28.793 INFO: Loading configuration template done.
+2022-02-02 01:30:28.844 DEBUG: starting thread (client mode): 0x57b39b50
+2022-02-02 01:30:28.845 DEBUG: Local version/idstring: SSH-2.0-paramiko_2.9.2
+2022-02-02 01:30:28.892 DEBUG: Remote version/idstring: SSH-1.99-Cisco-1.25
+2022-02-02 01:30:28.893 INFO: Connected (version 1.99, client Cisco-1.25)
+2022-02-02 01:30:28.894 DEBUG: === Key exchange possibilities ===
+2022-02-02 01:30:28.894 DEBUG: kex algos: diffie-hellman-group-exchange-sha1, diffie-hellman-group14-sha1
+2022-02-02 01:30:28.894 DEBUG: server key: ssh-rsa
+2022-02-02 01:30:28.894 DEBUG: client encrypt: aes128-ctr, aes192-ctr, aes256-ctr
+2022-02-02 01:30:28.894 DEBUG: server encrypt: aes128-ctr, aes192-ctr, aes256-ctr
+2022-02-02 01:30:28.894 DEBUG: client mac: hmac-sha2-256, hmac-sha2-512, hmac-sha1, hmac-sha1-96
+2022-02-02 01:30:28.894 DEBUG: server mac: hmac-sha2-256, hmac-sha2-512, hmac-sha1, hmac-sha1-96
+2022-02-02 01:30:28.894 DEBUG: client compress: none
+2022-02-02 01:30:28.894 DEBUG: server compress: none
+2022-02-02 01:30:28.895 DEBUG: client lang: <none>
+2022-02-02 01:30:28.895 DEBUG: server lang: <none>
+2022-02-02 01:30:28.895 DEBUG: kex follows: False
+2022-02-02 01:30:28.895 DEBUG: === Key exchange agreements ===
+2022-02-02 01:30:28.895 DEBUG: Kex: diffie-hellman-group-exchange-sha1
+2022-02-02 01:30:28.895 DEBUG: HostKey: ssh-rsa
+2022-02-02 01:30:28.895 DEBUG: Cipher: aes128-ctr
+2022-02-02 01:30:28.895 DEBUG: MAC: hmac-sha2-256
+2022-02-02 01:30:28.895 DEBUG: Compression: none
+2022-02-02 01:30:28.895 DEBUG: === End of kex handshake ===
+2022-02-02 01:30:29.190 DEBUG: Got server p (2048 bits)
+2022-02-02 01:30:29.340 DEBUG: kex engine KexGex specified hash_algo <built-in function openssl_sha1>
+2022-02-02 01:30:29.341 DEBUG: Switch to new keys ...
+2022-02-02 01:30:29.341 DEBUG: Adding ssh-rsa host key for 10.88.174.137: b'fac9cf0a0d6505449c876c4c747882ae'
+2022-02-02 01:30:29.635 DEBUG: userauth is OK
+2022-02-02 01:30:29.683 INFO: Authentication (password) successful!
+2022-02-02 01:30:29.683 DEBUG: [chan 0] Max packet in: 32768 bytes
+2022-02-02 01:30:29.730 DEBUG: [chan 0] Max packet out: 4096 bytes
+2022-02-02 01:30:29.731 DEBUG: Secsh channel 0 opened.
+2022-02-02 01:30:29.779 DEBUG: [chan 0] Sesch channel 0 request ok
+2022-02-02 01:30:29.826 DEBUG: [chan 0] Sesch channel 0 request ok
+2022-02-02 01:30:29.827 DEBUG: write_channel: b'terminal width 511\n'
+2022-02-02 01:30:29.827 DEBUG: Pattern is: terminal width 511
+2022-02-02 01:30:29.827 DEBUG: _read_channel_expect read_data: 
+
+
+111-4#
+2022-02-02 01:30:29.877 DEBUG: _read_channel_expect read_data: te
+2022-02-02 01:30:29.889 DEBUG: _read_channel_expect read_data: rm
+2022-02-02 01:30:29.900 DEBUG: _read_channel_expect read_data: inal
+2022-02-02 01:30:29.911 DEBUG: _read_channel_expect read_data:  wid
+2022-02-02 01:30:29.922 DEBUG: _read_channel_expect read_data: th 5
+2022-02-02 01:30:29.933 DEBUG: _read_channel_expect read_data: 11
+111-4#
+2022-02-02 01:30:29.933 DEBUG: Pattern found: terminal width 511 
+
+
+111-4#terminal width 511
+111-4#
+2022-02-02 01:30:29.933 DEBUG: In disable_paging
+2022-02-02 01:30:29.934 DEBUG: Command: terminal length 0
+
+2022-02-02 01:30:29.934 DEBUG: write_channel: b'terminal length 0\n'
+2022-02-02 01:30:29.934 DEBUG: Pattern is: terminal\ length\ 0
+2022-02-02 01:30:29.985 DEBUG: _read_channel_expect read_data: te
+2022-02-02 01:30:29.996 DEBUG: _read_channel_expect read_data: rmin
+2022-02-02 01:30:30.007 DEBUG: _read_channel_expect read_data: al
+2022-02-02 01:30:30.018 DEBUG: _read_channel_expect read_data:  len
+2022-02-02 01:30:30.029 DEBUG: _read_channel_expect read_data: gth 0
+111-4#
+2022-02-02 01:30:30.029 DEBUG: Pattern found: terminal\ length\ 0 terminal length 0
+111-4#
+2022-02-02 01:30:30.029 DEBUG: terminal length 0
+111-4#
+2022-02-02 01:30:30.029 DEBUG: Exiting disable_paging
+2022-02-02 01:30:30.040 DEBUG: read_channel: 
+2022-02-02 01:30:30.040 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.051 DEBUG: read_channel: 
+2022-02-02 01:30:30.051 DEBUG: read_channel: 
+2022-02-02 01:30:30.051 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.062 DEBUG: read_channel: 
+2022-02-02 01:30:30.062 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.083 DEBUG: read_channel: 
+2022-02-02 01:30:30.083 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.124 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:30:30.146 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:30:30.146 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:30:30.166 DEBUG: read_channel: 
+111-4#
+111-4#
+2022-02-02 01:30:30.166 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:30:30.208 DEBUG: read_channel: 
+2022-02-02 01:30:30.208 DEBUG: [find_prompt()]: prompt is 111-4#
+2022-02-02 01:30:30.208 INFO: 10.88.174.137: connected
+2022-02-02 01:30:30.219 DEBUG: read_channel: 
+2022-02-02 01:30:30.219 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.230 DEBUG: read_channel: 
+2022-02-02 01:30:30.230 DEBUG: read_channel: 
+2022-02-02 01:30:30.230 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.241 DEBUG: read_channel: 
+2022-02-02 01:30:30.241 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.261 DEBUG: read_channel: 
+2022-02-02 01:30:30.262 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:30.302 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:30:30.323 DEBUG: read_channel: 
+2022-02-02 01:30:30.323 DEBUG: [find_prompt()]: prompt is 111-4#
+2022-02-02 01:30:30.355 DEBUG: read_channel: 
+111-4#
+111-4#
+111-4#
+2022-02-02 01:30:30.355 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:30:30.375 DEBUG: read_channel: 
+2022-02-02 01:30:30.376 DEBUG: write_channel: b'hw-module session 0/3 clear\n'
+2022-02-02 01:30:30.376 DEBUG: Pattern is: hw\-module\ session\ 0/3\ clear
+2022-02-02 01:30:30.434 DEBUG: _read_channel_expect read_data: hw
+2022-02-02 01:30:30.445 DEBUG: _read_channel_expect read_data: -mod
+2022-02-02 01:30:30.455 DEBUG: _read_channel_expect read_data: ul
+2022-02-02 01:30:30.466 DEBUG: _read_channel_expect read_data: e 
+2022-02-02 01:30:30.476 DEBUG: _read_channel_expect read_data: se
+2022-02-02 01:30:30.487 DEBUG: _read_channel_expect read_data: ssio
+2022-02-02 01:30:30.498 DEBUG: _read_channel_expect read_data: n 0/3
+2022-02-02 01:30:30.509 DEBUG: _read_channel_expect read_data:  clea
+2022-02-02 01:30:30.519 DEBUG: _read_channel_expect read_data: r
+
+2022-02-02 01:30:30.520 DEBUG: Pattern found: hw\-module\ session\ 0/3\ clear hw-module session 0/3 clear
+
+2022-02-02 01:30:30.540 DEBUG: read_channel: 
+2022-02-02 01:30:30.561 DEBUG: read_channel: 
+2022-02-02 01:30:30.582 DEBUG: read_channel: 
+2022-02-02 01:30:30.603 DEBUG: read_channel: 
+2022-02-02 01:30:30.624 DEBUG: read_channel: 
+2022-02-02 01:30:30.645 DEBUG: read_channel: 
+2022-02-02 01:30:30.665 DEBUG: read_channel: 
+2022-02-02 01:30:30.686 DEBUG: read_channel: 
+2022-02-02 01:30:30.706 DEBUG: read_channel: 
+2022-02-02 01:30:30.727 DEBUG: read_channel: 
+2022-02-02 01:30:30.748 DEBUG: read_channel: 
+2022-02-02 01:30:30.769 DEBUG: read_channel: 
+2022-02-02 01:30:30.789 DEBUG: read_channel: 
+2022-02-02 01:30:30.810 DEBUG: read_channel: 
+2022-02-02 01:30:30.831 DEBUG: read_channel: 
+2022-02-02 01:30:30.852 DEBUG: read_channel: 
+2022-02-02 01:30:30.873 DEBUG: read_channel: 
+2022-02-02 01:30:30.894 DEBUG: read_channel: 
+2022-02-02 01:30:30.915 DEBUG: read_channel: 
+2022-02-02 01:30:30.936 DEBUG: read_channel: 
+2022-02-02 01:30:30.957 DEBUG: read_channel: 
+2022-02-02 01:30:30.978 DEBUG: read_channel: 
+2022-02-02 01:30:30.999 DEBUG: read_channel: 
+2022-02-02 01:30:31.019 DEBUG: read_channel: 
+2022-02-02 01:30:31.041 DEBUG: read_channel: 
+2022-02-02 01:30:31.061 DEBUG: read_channel: 
+2022-02-02 01:30:31.082 DEBUG: read_channel: 
+2022-02-02 01:30:31.103 DEBUG: read_channel: 
+2022-02-02 01:30:31.124 DEBUG: read_channel: 
+2022-02-02 01:30:31.145 DEBUG: read_channel: 
+2022-02-02 01:30:31.166 DEBUG: read_channel: 
+2022-02-02 01:30:31.187 DEBUG: read_channel: 
+2022-02-02 01:30:31.208 DEBUG: read_channel: 
+2022-02-02 01:30:31.229 DEBUG: read_channel: 
+2022-02-02 01:30:31.250 DEBUG: read_channel: 
+2022-02-02 01:30:31.271 DEBUG: read_channel: 
+2022-02-02 01:30:31.292 DEBUG: read_channel: 
+2022-02-02 01:30:31.313 DEBUG: read_channel: 
+2022-02-02 01:30:31.334 DEBUG: read_channel: 
+2022-02-02 01:30:31.355 DEBUG: read_channel: 
+2022-02-02 01:30:31.376 DEBUG: read_channel: 
+2022-02-02 01:30:31.397 DEBUG: read_channel: 
+2022-02-02 01:30:31.417 DEBUG: read_channel: 
+2022-02-02 01:30:31.438 DEBUG: read_channel: 
+2022-02-02 01:30:31.458 DEBUG: read_channel: 
+2022-02-02 01:30:31.479 DEBUG: read_channel: 
+2022-02-02 01:30:31.500 DEBUG: read_channel: 
+2022-02-02 01:30:31.521 DEBUG: read_channel: 
+2022-02-02 01:30:31.542 DEBUG: read_channel: 
+2022-02-02 01:30:31.563 DEBUG: read_channel: 
+2022-02-02 01:30:31.584 DEBUG: read_channel: 
+2022-02-02 01:30:31.605 DEBUG: read_channel: 
+2022-02-02 01:30:31.626 DEBUG: read_channel: 
+2022-02-02 01:30:31.648 DEBUG: read_channel: 
+2022-02-02 01:30:31.669 DEBUG: read_channel: 111-4#
+2022-02-02 01:30:31.701 DEBUG: read_channel: 
+2022-02-02 01:30:31.702 DEBUG: write_channel: b'hw-module session 0/3\n'
+2022-02-02 01:30:31.703 DEBUG: Pattern is: hw\-module\ session\ 0/3
+2022-02-02 01:30:31.751 DEBUG: _read_channel_expect read_data: h
+2022-02-02 01:30:31.763 DEBUG: _read_channel_expect read_data: w
+2022-02-02 01:30:31.775 DEBUG: _read_channel_expect read_data: -
+2022-02-02 01:30:31.787 DEBUG: _read_channel_expect read_data: module
+2022-02-02 01:30:31.798 DEBUG: _read_channel_expect read_data:  ses
+2022-02-02 01:30:31.814 DEBUG: _read_channel_expect read_data: si
+2022-02-02 01:30:31.825 DEBUG: _read_channel_expect read_data: on
+2022-02-02 01:30:31.835 DEBUG: _read_channel_expect read_data:  0/
+2022-02-02 01:30:31.847 DEBUG: _read_channel_expect read_data: 3
+
+2022-02-02 01:30:31.847 DEBUG: Pattern found: hw\-module\ session\ 0/3 hw-module session 0/3
+
+2022-02-02 01:30:31.868 DEBUG: read_channel: 
+2022-02-02 01:30:31.889 DEBUG: read_channel: 
+2022-02-02 01:30:31.909 DEBUG: read_channel: 
+2022-02-02 01:30:31.930 DEBUG: read_channel: 
+2022-02-02 01:30:31.951 DEBUG: read_channel: 
+2022-02-02 01:30:31.972 DEBUG: read_channel: 
+2022-02-02 01:30:31.992 DEBUG: read_channel: 
+2022-02-02 01:30:32.013 DEBUG: read_channel: 
+2022-02-02 01:30:32.034 DEBUG: read_channel: 
+2022-02-02 01:30:32.054 DEBUG: read_channel: 
+2022-02-02 01:30:32.075 DEBUG: read_channel: 
+2022-02-02 01:30:32.096 DEBUG: read_channel: 
+2022-02-02 01:30:32.117 DEBUG: read_channel: 
+2022-02-02 01:30:32.137 DEBUG: read_channel: 
+2022-02-02 01:30:32.159 DEBUG: read_channel: 
+2022-02-02 01:30:32.180 DEBUG: read_channel: 
+2022-02-02 01:30:32.201 DEBUG: read_channel: 
+2022-02-02 01:30:32.221 DEBUG: read_channel: 
+2022-02-02 01:30:32.242 DEBUG: read_channel: 
+2022-02-02 01:30:32.264 DEBUG: read_channel: 
+2022-02-02 01:30:32.284 DEBUG: read_channel: 
+2022-02-02 01:30:32.305 DEBUG: read_channel: 
+2022-02-02 01:30:32.326 DEBUG: read_channel: 
+2022-02-02 01:30:32.347 DEBUG: read_channel: 
+2022-02-02 01:30:32.368 DEBUG: read_channel: 
+2022-02-02 01:30:32.389 DEBUG: read_channel: 
+2022-02-02 01:30:32.411 DEBUG: read_channel: 
+2022-02-02 01:30:32.432 DEBUG: read_channel: 
+2022-02-02 01:30:32.453 DEBUG: read_channel: 
+2022-02-02 01:30:32.473 DEBUG: read_channel: 
+2022-02-02 01:30:32.494 DEBUG: read_channel: 
+2022-02-02 01:30:32.515 DEBUG: read_channel: 
+2022-02-02 01:30:32.536 DEBUG: read_channel: 
+2022-02-02 01:30:32.557 DEBUG: read_channel: 
+2022-02-02 01:30:32.577 DEBUG: read_channel: 
+2022-02-02 01:30:32.599 DEBUG: read_channel: 
+2022-02-02 01:30:32.620 DEBUG: read_channel: 
+2022-02-02 01:30:32.640 DEBUG: read_channel: 
+2022-02-02 01:30:32.661 DEBUG: read_channel: 
+2022-02-02 01:30:32.682 DEBUG: read_channel: 
+2022-02-02 01:30:32.703 DEBUG: read_channel: 
+2022-02-02 01:30:32.724 DEBUG: read_channel: 
+2022-02-02 01:30:32.745 DEBUG: read_channel: 
+2022-02-02 01:30:32.767 DEBUG: read_channel: 
+2022-02-02 01:30:32.787 DEBUG: read_channel: 
+2022-02-02 01:30:32.808 DEBUG: read_channel: 
+2022-02-02 01:30:32.829 DEBUG: read_channel: 
+2022-02-02 01:30:32.850 DEBUG: read_channel: 
+2022-02-02 01:30:32.871 DEBUG: read_channel: 
+2022-02-02 01:30:32.891 DEBUG: read_channel: 
+2022-02-02 01:30:32.912 DEBUG: read_channel: 
+2022-02-02 01:30:32.932 DEBUG: read_channel: 
+2022-02-02 01:30:32.953 DEBUG: read_channel: 
+2022-02-02 01:30:32.973 DEBUG: read_channel: 
+2022-02-02 01:30:32.995 DEBUG: read_channel: 
+2022-02-02 01:30:33.016 DEBUG: read_channel: Establishing session connect to subslot 0/3
+To exit, type ^a^q
+
+
+2022-02-02 01:30:33.036 DEBUG: read_channel: 
+2022-02-02 01:30:33.057 DEBUG: read_channel: 
+2022-02-02 01:30:33.078 DEBUG: read_channel: 
+2022-02-02 01:30:33.099 DEBUG: read_channel: 
+2022-02-02 01:30:33.119 DEBUG: read_channel: 
+2022-02-02 01:30:33.140 DEBUG: read_channel: 
+2022-02-02 01:30:33.160 DEBUG: read_channel: 
+2022-02-02 01:30:33.181 DEBUG: read_channel: 
+2022-02-02 01:30:33.202 DEBUG: read_channel: picocom v2.2
+
+port is        : /dev/ttyS3
+flowcontrol    : none
+baudrate is    : 9600
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+nolock is      : yes
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+logfile is     : none
+
+Type [C-a] [C-h] to see available commands
+
+Terminal ready
+
+2022-02-02 01:30:33.203 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:33.203 DEBUG: send_command_timing current output: 
+2022-02-02 01:30:33.304 DEBUG: read_channel: 
+User:
+2022-02-02 01:30:33.404 DEBUG: read_channel: 
+2022-02-02 01:30:35.408 DEBUG: read_channel: 
+2022-02-02 01:30:35.408 DEBUG: send_command_timing final output: User:
+2022-02-02 01:30:35.418 DEBUG: read_channel: 
+2022-02-02 01:30:35.419 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:35.430 DEBUG: read_channel: 
+2022-02-02 01:30:35.430 DEBUG: read_channel: 
+2022-02-02 01:30:35.430 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:35.440 DEBUG: read_channel: 
+2022-02-02 01:30:35.441 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:35.461 DEBUG: read_channel: 
+2022-02-02 01:30:35.462 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:35.502 DEBUG: read_channel: 
+User:
+2022-02-02 01:30:35.524 DEBUG: read_channel: 
+2022-02-02 01:30:35.524 DEBUG: [find_prompt()]: prompt is User:
+2022-02-02 01:30:35.556 DEBUG: read_channel: 
+User:
+2022-02-02 01:30:35.556 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:30:35.577 DEBUG: read_channel: 
+2022-02-02 01:30:35.577 DEBUG: write_channel: b'admin\n'
+2022-02-02 01:30:35.578 DEBUG: Pattern is: admin
+2022-02-02 01:30:35.633 DEBUG: _read_channel_expect read_data: 
+2022-02-02 01:30:35.644 DEBUG: _read_channel_expect read_data: 
+User:
+User:
+2022-02-02 01:30:35.832 DEBUG: _read_channel_expect read_data: admin
+Password:
+2022-02-02 01:30:35.832 DEBUG: Pattern found: admin 
+User:
+User:admin
+Password:
+2022-02-02 01:30:35.833 DEBUG: write_channel: b'cisco!123\n'
+2022-02-02 01:30:35.834 DEBUG: send_command_timing current output: 
+2022-02-02 01:30:35.935 DEBUG: read_channel: ********
+2022-02-02 01:30:36.037 DEBUG: read_channel: 
+2022-02-02 01:30:38.040 DEBUG: read_channel: *
+ Warning: Missing TFTP/CCO params, Please Configure the Image Download Params
+
+Welcome to the Cisco Mobility Express command line interface.
+Only commands which are listed in the command reference guide for this release are supported.
+http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-reference-list.html
+(Cisco Controller) >
+2022-02-02 01:30:38.141 DEBUG: read_channel: 
+2022-02-02 01:30:40.144 DEBUG: read_channel: 
+2022-02-02 01:30:40.144 DEBUG: send_command_timing final output: *********
+ Warning: Missing TFTP/CCO params, Please Configure the Image Download Params
+
+Welcome to the Cisco Mobility Express command line interface.
+Only commands which are listed in the command reference guide for this release are supported.
+http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-reference-list.html
+(Cisco Controller) >
+2022-02-02 01:30:40.144 DEBUG: write_channel: b'\x1a\n'
+2022-02-02 01:30:40.144 DEBUG: send_command_timing current output: 
+2022-02-02 01:30:40.246 DEBUG: read_channel: 
+(Cisc
+2022-02-02 01:30:40.346 DEBUG: read_channel: 
+2022-02-02 01:30:42.349 DEBUG: read_channel: o Controller) >
+(Cisco Controller) >
+2022-02-02 01:30:42.450 DEBUG: read_channel: 
+2022-02-02 01:30:44.452 DEBUG: read_channel: 
+2022-02-02 01:30:44.452 DEBUG: send_command_timing final output: 
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:30:44.452 DEBUG: write_channel: b'\n'
+2022-02-02 01:30:44.452 DEBUG: send_command_timing current output: 
+2022-02-02 01:30:44.552 DEBUG: read_channel: 
+(Cisc
+2022-02-02 01:30:44.653 DEBUG: read_channel: 
+2022-02-02 01:30:46.656 DEBUG: read_channel: o Controller) >
+2022-02-02 01:30:46.758 DEBUG: read_channel: 
+2022-02-02 01:30:48.759 DEBUG: read_channel: 
+2022-02-02 01:30:48.759 DEBUG: send_command_timing final output: (Cisco Controller) >
+2022-02-02 01:30:48.759 DEBUG: In disable_paging
+2022-02-02 01:30:48.760 DEBUG: Command: config paging disable
+
+2022-02-02 01:30:48.760 DEBUG: write_channel: b'config paging disable\n'
+2022-02-02 01:30:48.761 DEBUG: Pattern is: config\ paging\ disable
+2022-02-02 01:30:48.845 DEBUG: _read_channel_expect read_data: config p
+2022-02-02 01:30:49.048 DEBUG: _read_channel_expect read_data: aging disable
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.048 DEBUG: Pattern found: config\ paging\ disable config paging disable
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.049 DEBUG: config paging disable
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.049 DEBUG: Exiting disable_paging
+2022-02-02 01:30:49.049 INFO: 10.88.174.137: mobility express module connected
+2022-02-02 01:30:49.049 INFO: 10.88.174.137: start parsing the configuration
+2022-02-02 01:30:49.050 DEBUG: 10.88.174.137: config = config acl delete ONGUARD-EPP-ACL 
+2022-02-02 01:30:49.081 DEBUG: read_channel: 
+2022-02-02 01:30:49.082 DEBUG: write_channel: b'config acl delete ONGUARD-EPP-ACL\n'
+2022-02-02 01:30:49.083 DEBUG: Pattern is: config\ acl\ delete\ ONGUARD\-EPP\-ACL
+2022-02-02 01:30:49.191 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:49.390 DEBUG: _read_channel_expect read_data: cl delete ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.391 DEBUG: Pattern found: config\ acl\ delete\ ONGUARD\-EPP\-ACL config acl delete ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.391 DEBUG: 10.88.174.137: config = config acl create ONGUARD-EPP-ACL 
+2022-02-02 01:30:49.422 DEBUG: read_channel: 
+2022-02-02 01:30:49.423 DEBUG: write_channel: b'config acl create ONGUARD-EPP-ACL\n'
+2022-02-02 01:30:49.423 DEBUG: Pattern is: config\ acl\ create\ ONGUARD\-EPP\-ACL
+2022-02-02 01:30:49.520 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:49.723 DEBUG: _read_channel_expect read_data: cl create ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.724 DEBUG: Pattern found: config\ acl\ create\ ONGUARD\-EPP\-ACL config acl create ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >
+2022-02-02 01:30:49.724 DEBUG: 10.88.174.137: config = config acl rule add ONGUARD-EPP-ACL 1 
+2022-02-02 01:30:49.756 DEBUG: read_channel: 
+2022-02-02 01:30:49.756 DEBUG: write_channel: b'config acl rule add ONGUARD-EPP-ACL 1\n'
+2022-02-02 01:30:49.756 DEBUG: Pattern is: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 1
+2022-02-02 01:30:49.858 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:50.057 DEBUG: _read_channel_expect read_data: cl rule add ONGUARD-EPP-ACL 1
+2022-02-02 01:30:50.057 DEBUG: Pattern found: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 1 config acl rule add ONGUARD-EPP-ACL 1
+2022-02-02 01:30:50.078 DEBUG: read_channel: 
+
+
+(Cisco Controller) >
+2022-02-02 01:30:50.079 DEBUG: 10.88.174.137: config = config acl rule action ONGUARD-EPP-ACL 1 permit 
+2022-02-02 01:30:50.110 DEBUG: read_channel: 
+2022-02-02 01:30:50.110 DEBUG: write_channel: b'config acl rule action ONGUARD-EPP-ACL 1 permit\n'
+2022-02-02 01:30:50.110 DEBUG: Pattern is: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 1\ permit
+2022-02-02 01:30:50.225 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:50.423 DEBUG: _read_channel_expect read_data: cl rule action ONGUARD-EPP-ACL 1 permit
+
+
+(Cisco Controller) >
+2022-02-02 01:30:50.424 DEBUG: Pattern found: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 1\ permit config acl rule action ONGUARD-EPP-ACL 1 permit
+
+
+(Cisco Controller) >
+2022-02-02 01:30:50.424 DEBUG: 10.88.174.137: config = config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:50.455 DEBUG: read_channel: 
+2022-02-02 01:30:50.456 DEBUG: write_channel: b'config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:50.456 DEBUG: Pattern is: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:50.595 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:50.793 DEBUG: _read_channel_expect read_data: cl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:50.793 DEBUG: Pattern found: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:50.814 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:50.814 DEBUG: 10.88.174.137: config = config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535 
+2022-02-02 01:30:50.845 DEBUG: read_channel: 
+2022-02-02 01:30:50.845 DEBUG: write_channel: b'config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535\n'
+2022-02-02 01:30:50.846 DEBUG: Pattern is: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 0\ 65535
+2022-02-02 01:30:50.976 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:51.174 DEBUG: _read_channel_expect read_data: cl rule destination port range ONGUARD-EPP-ACL 1 0 65535
+2022-02-02 01:30:51.174 DEBUG: Pattern found: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 0\ 65535 config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535
+2022-02-02 01:30:51.195 DEBUG: read_channel: 
+
+
+(Cisco Controller) >
+2022-02-02 01:30:51.196 DEBUG: 10.88.174.137: config = config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:51.227 DEBUG: read_channel: 
+2022-02-02 01:30:51.228 DEBUG: write_channel: b'config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:51.229 DEBUG: Pattern is: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:51.363 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:51.562 DEBUG: _read_channel_expect read_data: cl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:51.563 DEBUG: Pattern found: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 1\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:51.563 DEBUG: 10.88.174.137: config = config acl rule source port range ONGUARD-EPP-ACL 1 53 53 
+2022-02-02 01:30:51.594 DEBUG: read_channel: 
+2022-02-02 01:30:51.595 DEBUG: write_channel: b'config acl rule source port range ONGUARD-EPP-ACL 1 53 53\n'
+2022-02-02 01:30:51.595 DEBUG: Pattern is: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 53\ 53
+2022-02-02 01:30:51.717 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:51.919 DEBUG: _read_channel_expect read_data: cl rule source port range ONGUARD-EPP-ACL 1 53 53
+
+
+2022-02-02 01:30:51.920 DEBUG: Pattern found: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 1\ 53\ 53 config acl rule source port range ONGUARD-EPP-ACL 1 53 53
+
+
+2022-02-02 01:30:51.940 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:51.940 DEBUG: 10.88.174.137: config = config acl rule direction ONGUARD-EPP-ACL 1 Any  
+2022-02-02 01:30:51.972 DEBUG: read_channel: 
+2022-02-02 01:30:51.972 DEBUG: write_channel: b'config acl rule direction ONGUARD-EPP-ACL 1 Any\n'
+2022-02-02 01:30:51.973 DEBUG: Pattern is: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 1\ Any
+2022-02-02 01:30:52.086 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:52.286 DEBUG: _read_channel_expect read_data: cl rule direction ONGUARD-EPP-ACL 1 Any
+
+
+2022-02-02 01:30:52.286 DEBUG: Pattern found: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 1\ Any config acl rule direction ONGUARD-EPP-ACL 1 Any
+
+
+2022-02-02 01:30:52.307 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:52.308 DEBUG: 10.88.174.137: config = config acl rule dscp ONGUARD-EPP-ACL 1  Any  
+2022-02-02 01:30:52.338 DEBUG: read_channel: 
+2022-02-02 01:30:52.338 DEBUG: write_channel: b'config acl rule dscp ONGUARD-EPP-ACL 1  Any\n'
+2022-02-02 01:30:52.339 DEBUG: Pattern is: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 1\ \ Any
+2022-02-02 01:30:52.450 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:52.650 DEBUG: _read_channel_expect read_data: cl rule dscp ONGUARD-EPP-ACL 1  Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:52.650 DEBUG: Pattern found: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 1\ \ Any config acl rule dscp ONGUARD-EPP-ACL 1  Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:52.650 DEBUG: 10.88.174.137: config = config acl rule protocol ONGUARD-EPP-ACL 1   17  
+2022-02-02 01:30:52.682 DEBUG: read_channel: 
+2022-02-02 01:30:52.683 DEBUG: write_channel: b'config acl rule protocol ONGUARD-EPP-ACL 1   17\n'
+2022-02-02 01:30:52.683 DEBUG: Pattern is: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 1\ \ \ 17
+2022-02-02 01:30:52.807 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:53.008 DEBUG: _read_channel_expect read_data: cl rule protocol ONGUARD-EPP-ACL 1   17
+
+
+2022-02-02 01:30:53.008 DEBUG: Pattern found: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 1\ \ \ 17 config acl rule protocol ONGUARD-EPP-ACL 1   17
+
+
+2022-02-02 01:30:53.029 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:53.030 DEBUG: 10.88.174.137: config = config acl rule add ONGUARD-EPP-ACL 2 
+2022-02-02 01:30:53.061 DEBUG: read_channel: 
+2022-02-02 01:30:53.063 DEBUG: write_channel: b'config acl rule add ONGUARD-EPP-ACL 2\n'
+2022-02-02 01:30:53.064 DEBUG: Pattern is: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 2
+2022-02-02 01:30:53.166 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:53.363 DEBUG: _read_channel_expect read_data: cl rule add ONGUARD-EPP-ACL 2
+
+
+2022-02-02 01:30:53.363 DEBUG: Pattern found: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 2 config acl rule add ONGUARD-EPP-ACL 2
+
+
+2022-02-02 01:30:53.384 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:53.385 DEBUG: 10.88.174.137: config = config acl rule action ONGUARD-EPP-ACL 2 permit 
+2022-02-02 01:30:53.416 DEBUG: read_channel: 
+2022-02-02 01:30:53.417 DEBUG: write_channel: b'config acl rule action ONGUARD-EPP-ACL 2 permit\n'
+2022-02-02 01:30:53.418 DEBUG: Pattern is: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 2\ permit
+2022-02-02 01:30:53.529 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:53.731 DEBUG: _read_channel_expect read_data: cl rule action ONGUARD-EPP-ACL 2 permit
+
+
+2022-02-02 01:30:53.731 DEBUG: Pattern found: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 2\ permit config acl rule action ONGUARD-EPP-ACL 2 permit
+
+
+2022-02-02 01:30:53.753 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:53.753 DEBUG: 10.88.174.137: config = config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:53.785 DEBUG: read_channel: 
+2022-02-02 01:30:53.785 DEBUG: write_channel: b'config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:53.785 DEBUG: Pattern is: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:53.920 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:54.121 DEBUG: _read_channel_expect read_data: cl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:54.121 DEBUG: Pattern found: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:54.142 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:54.142 DEBUG: 10.88.174.137: config = config acl rule destination port range ONGUARD-EPP-ACL 2 53 53 
+2022-02-02 01:30:54.174 DEBUG: read_channel: 
+2022-02-02 01:30:54.175 DEBUG: write_channel: b'config acl rule destination port range ONGUARD-EPP-ACL 2 53 53\n'
+2022-02-02 01:30:54.175 DEBUG: Pattern is: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 53\ 53
+2022-02-02 01:30:54.298 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:54.496 DEBUG: _read_channel_expect read_data: cl rule destination port range ONGUARD-EPP-ACL 2 53 53
+2022-02-02 01:30:54.497 DEBUG: Pattern found: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 53\ 53 config acl rule destination port range ONGUARD-EPP-ACL 2 53 53
+2022-02-02 01:30:54.518 DEBUG: read_channel: 
+
+
+(Cisco Controller) >
+2022-02-02 01:30:54.518 DEBUG: 10.88.174.137: config = config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:54.550 DEBUG: read_channel: 
+2022-02-02 01:30:54.550 DEBUG: write_channel: b'config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:54.550 DEBUG: Pattern is: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:54.684 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:54.886 DEBUG: _read_channel_expect read_data: cl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:54.886 DEBUG: Pattern found: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 2\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+2022-02-02 01:30:54.907 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:54.907 DEBUG: 10.88.174.137: config = config acl rule source port range ONGUARD-EPP-ACL 2 0 65535 
+2022-02-02 01:30:54.938 DEBUG: read_channel: 
+2022-02-02 01:30:54.938 DEBUG: write_channel: b'config acl rule source port range ONGUARD-EPP-ACL 2 0 65535\n'
+2022-02-02 01:30:54.939 DEBUG: Pattern is: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 0\ 65535
+2022-02-02 01:30:55.067 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:55.264 DEBUG: _read_channel_expect read_data: cl rule source port range ONGUARD-EPP-ACL 2 0 65535
+
+
+2022-02-02 01:30:55.265 DEBUG: Pattern found: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 2\ 0\ 65535 config acl rule source port range ONGUARD-EPP-ACL 2 0 65535
+
+
+2022-02-02 01:30:55.286 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:55.286 DEBUG: 10.88.174.137: config = config acl rule direction ONGUARD-EPP-ACL 2 Any  
+2022-02-02 01:30:55.318 DEBUG: read_channel: 
+2022-02-02 01:30:55.318 DEBUG: write_channel: b'config acl rule direction ONGUARD-EPP-ACL 2 Any\n'
+2022-02-02 01:30:55.318 DEBUG: Pattern is: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 2\ Any
+2022-02-02 01:30:55.439 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:55.637 DEBUG: _read_channel_expect read_data: cl rule direction ONGUARD-EPP-ACL 2 Any
+
+
+2022-02-02 01:30:55.638 DEBUG: Pattern found: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 2\ Any config acl rule direction ONGUARD-EPP-ACL 2 Any
+
+
+2022-02-02 01:30:55.659 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:55.659 DEBUG: 10.88.174.137: config = config acl rule dscp ONGUARD-EPP-ACL 2  Any  
+2022-02-02 01:30:55.690 DEBUG: read_channel: 
+2022-02-02 01:30:55.690 DEBUG: write_channel: b'config acl rule dscp ONGUARD-EPP-ACL 2  Any\n'
+2022-02-02 01:30:55.690 DEBUG: Pattern is: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 2\ \ Any
+2022-02-02 01:30:55.799 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:55.996 DEBUG: _read_channel_expect read_data: cl rule dscp ONGUARD-EPP-ACL 2  Any
+
+
+2022-02-02 01:30:55.996 DEBUG: Pattern found: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 2\ \ Any config acl rule dscp ONGUARD-EPP-ACL 2  Any
+
+
+2022-02-02 01:30:56.016 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:56.016 DEBUG: 10.88.174.137: config = config acl rule protocol ONGUARD-EPP-ACL 2   17  
+2022-02-02 01:30:56.048 DEBUG: read_channel: 
+2022-02-02 01:30:56.048 DEBUG: write_channel: b'config acl rule protocol ONGUARD-EPP-ACL 2   17\n'
+2022-02-02 01:30:56.048 DEBUG: Pattern is: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 2\ \ \ 17
+2022-02-02 01:30:56.160 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:56.364 DEBUG: _read_channel_expect read_data: cl rule protocol ONGUARD-EPP-ACL 2   17
+
+
+2022-02-02 01:30:56.365 DEBUG: Pattern found: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 2\ \ \ 17 config acl rule protocol ONGUARD-EPP-ACL 2   17
+
+
+2022-02-02 01:30:56.387 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:56.388 DEBUG: 10.88.174.137: config = config acl rule add ONGUARD-EPP-ACL 3 
+2022-02-02 01:30:56.419 DEBUG: read_channel: 
+2022-02-02 01:30:56.419 DEBUG: write_channel: b'config acl rule add ONGUARD-EPP-ACL 3\n'
+2022-02-02 01:30:56.419 DEBUG: Pattern is: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 3
+2022-02-02 01:30:56.520 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:56.723 DEBUG: _read_channel_expect read_data: cl rule add ONGUARD-EPP-ACL 3
+
+
+(Cisco Controller) >
+2022-02-02 01:30:56.723 DEBUG: Pattern found: config\ acl\ rule\ add\ ONGUARD\-EPP\-ACL\ 3 config acl rule add ONGUARD-EPP-ACL 3
+
+
+(Cisco Controller) >
+2022-02-02 01:30:56.723 DEBUG: 10.88.174.137: config = config acl rule action ONGUARD-EPP-ACL 3 permit 
+2022-02-02 01:30:56.754 DEBUG: read_channel: 
+2022-02-02 01:30:56.754 DEBUG: write_channel: b'config acl rule action ONGUARD-EPP-ACL 3 permit\n'
+2022-02-02 01:30:56.754 DEBUG: Pattern is: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 3\ permit
+2022-02-02 01:30:56.876 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:57.072 DEBUG: _read_channel_expect read_data: cl rule action ONGUARD-EPP-ACL 3 permit
+
+
+(Cisco Controller) >
+2022-02-02 01:30:57.072 DEBUG: Pattern found: config\ acl\ rule\ action\ ONGUARD\-EPP\-ACL\ 3\ permit config acl rule action ONGUARD-EPP-ACL 3 permit
+
+
+(Cisco Controller) >
+2022-02-02 01:30:57.072 DEBUG: 10.88.174.137: config = config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:57.103 DEBUG: read_channel: 
+2022-02-02 01:30:57.103 DEBUG: write_channel: b'config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:57.103 DEBUG: Pattern is: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:57.238 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:57.435 DEBUG: _read_channel_expect read_data: cl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:57.436 DEBUG: Pattern found: config\ acl\ rule\ destination\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:57.436 DEBUG: 10.88.174.137: config = config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535 
+2022-02-02 01:30:57.468 DEBUG: read_channel: 
+2022-02-02 01:30:57.468 DEBUG: write_channel: b'config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535\n'
+2022-02-02 01:30:57.468 DEBUG: Pattern is: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535
+2022-02-02 01:30:57.596 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:57.794 DEBUG: _read_channel_expect read_data: cl rule destination port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:57.794 DEBUG: Pattern found: config\ acl\ rule\ destination\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535 config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:57.794 DEBUG: 10.88.174.137: config = config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0 
+2022-02-02 01:30:57.825 DEBUG: read_channel: 
+2022-02-02 01:30:57.825 DEBUG: write_channel: b'config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0\n'
+2022-02-02 01:30:57.825 DEBUG: Pattern is: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0
+2022-02-02 01:30:57.955 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:58.157 DEBUG: _read_channel_expect read_data: cl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:58.157 DEBUG: Pattern found: config\ acl\ rule\ source\ address\ ONGUARD\-EPP\-ACL\ 3\ 0\.0\.0\.0\ 0\.0\.0\.0 config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >
+2022-02-02 01:30:58.157 DEBUG: 10.88.174.137: config = config acl rule source port range ONGUARD-EPP-ACL 3 0 65535 
+2022-02-02 01:30:58.188 DEBUG: read_channel: 
+2022-02-02 01:30:58.188 DEBUG: write_channel: b'config acl rule source port range ONGUARD-EPP-ACL 3 0 65535\n'
+2022-02-02 01:30:58.188 DEBUG: Pattern is: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535
+2022-02-02 01:30:58.312 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:58.513 DEBUG: _read_channel_expect read_data: cl rule source port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:58.513 DEBUG: Pattern found: config\ acl\ rule\ source\ port\ range\ ONGUARD\-EPP\-ACL\ 3\ 0\ 65535 config acl rule source port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >
+2022-02-02 01:30:58.513 DEBUG: 10.88.174.137: config = config acl rule direction ONGUARD-EPP-ACL 3 Any  
+2022-02-02 01:30:58.545 DEBUG: read_channel: 
+2022-02-02 01:30:58.545 DEBUG: write_channel: b'config acl rule direction ONGUARD-EPP-ACL 3 Any\n'
+2022-02-02 01:30:58.545 DEBUG: Pattern is: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 3\ Any
+2022-02-02 01:30:58.657 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:58.860 DEBUG: _read_channel_expect read_data: cl rule direction ONGUARD-EPP-ACL 3 Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:58.860 DEBUG: Pattern found: config\ acl\ rule\ direction\ ONGUARD\-EPP\-ACL\ 3\ Any config acl rule direction ONGUARD-EPP-ACL 3 Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:58.860 DEBUG: 10.88.174.137: config = config acl rule dscp ONGUARD-EPP-ACL 3  Any  
+2022-02-02 01:30:58.890 DEBUG: read_channel: 
+2022-02-02 01:30:58.891 DEBUG: write_channel: b'config acl rule dscp ONGUARD-EPP-ACL 3  Any\n'
+2022-02-02 01:30:58.891 DEBUG: Pattern is: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 3\ \ Any
+2022-02-02 01:30:59.000 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:59.198 DEBUG: _read_channel_expect read_data: cl rule dscp ONGUARD-EPP-ACL 3  Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:59.198 DEBUG: Pattern found: config\ acl\ rule\ dscp\ ONGUARD\-EPP\-ACL\ 3\ \ Any config acl rule dscp ONGUARD-EPP-ACL 3  Any
+
+
+(Cisco Controller) >
+2022-02-02 01:30:59.198 DEBUG: 10.88.174.137: config = config acl rule protocol ONGUARD-EPP-ACL 3  1
+2022-02-02 01:30:59.230 DEBUG: read_channel: 
+2022-02-02 01:30:59.231 DEBUG: write_channel: b'config acl rule protocol ONGUARD-EPP-ACL 3  1\n'
+2022-02-02 01:30:59.231 DEBUG: Pattern is: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 3\ \ 1
+2022-02-02 01:30:59.340 DEBUG: _read_channel_expect read_data: config a
+2022-02-02 01:30:59.540 DEBUG: _read_channel_expect read_data: cl rule protocol ONGUARD-EPP-ACL 3  1
+
+
+(Cisco Controller) >
+2022-02-02 01:30:59.540 DEBUG: Pattern found: config\ acl\ rule\ protocol\ ONGUARD\-EPP\-ACL\ 3\ \ 1 config acl rule protocol ONGUARD-EPP-ACL 3  1
+
+
+(Cisco Controller) >
+2022-02-02 01:30:59.540 INFO: 10.88.174.137: configuration complete
+2022-02-02 01:30:59.540 DEBUG: In disable_paging
+2022-02-02 01:30:59.540 DEBUG: Command: config paging enable
+
+2022-02-02 01:30:59.541 DEBUG: write_channel: b'config paging enable\n'
+2022-02-02 01:30:59.541 DEBUG: Pattern is: config\ paging\ enable
+2022-02-02 01:30:59.624 DEBUG: _read_channel_expect read_data: config p
+2022-02-02 01:30:59.821 DEBUG: _read_channel_expect read_data: aging enable
+
+
+2022-02-02 01:30:59.821 DEBUG: Pattern found: config\ paging\ enable config paging enable
+
+
+2022-02-02 01:30:59.821 DEBUG: config paging enable
+
+
+2022-02-02 01:30:59.821 DEBUG: Exiting disable_paging
+2022-02-02 01:30:59.854 DEBUG: read_channel: 
+(Cisco Controller) >
+2022-02-02 01:30:59.854 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:30:59.875 DEBUG: read_channel: 
+2022-02-02 01:30:59.875 DEBUG: write_channel: b'save config\n'
+2022-02-02 01:30:59.875 DEBUG: Pattern is: save\ config
+2022-02-02 01:30:59.948 DEBUG: _read_channel_expect read_data: save con
+2022-02-02 01:31:00.151 DEBUG: _read_channel_expect read_data: fig
+
+2022-02-02 01:31:00.151 DEBUG: Pattern found: save\ config save config
+
+2022-02-02 01:31:00.172 DEBUG: read_channel: 
+Are you sure you want to save? (y/n) 
+2022-02-02 01:31:00.204 DEBUG: read_channel: 
+2022-02-02 01:31:00.204 DEBUG: write_channel: b'y\n'
+2022-02-02 01:31:00.204 DEBUG: Pattern is: y
+2022-02-02 01:31:00.267 DEBUG: _read_channel_expect read_data: y
+2022-02-02 01:31:00.267 DEBUG: Pattern found: y y
+2022-02-02 01:31:00.288 DEBUG: read_channel: 
+
+2022-02-02 01:31:00.309 DEBUG: read_channel: 
+2022-02-02 01:31:00.330 DEBUG: read_channel: 
+2022-02-02 01:31:00.351 DEBUG: read_channel: 
+2022-02-02 01:31:00.372 DEBUG: read_channel: 
+2022-02-02 01:31:00.393 DEBUG: read_channel: 
+2022-02-02 01:31:00.414 DEBUG: read_channel: 
+2022-02-02 01:31:00.435 DEBUG: read_channel: 
+2022-02-02 01:31:00.456 DEBUG: read_channel: 
+2022-02-02 01:31:00.476 DEBUG: read_channel: 
+2022-02-02 01:31:00.497 DEBUG: read_channel: 
+2022-02-02 01:31:00.518 DEBUG: read_channel: 
+2022-02-02 01:31:00.539 DEBUG: read_channel: 
+2022-02-02 01:31:00.560 DEBUG: read_channel: 
+2022-02-02 01:31:00.581 DEBUG: read_channel: 
+2022-02-02 01:31:00.602 DEBUG: read_channel: 
+2022-02-02 01:31:00.623 DEBUG: read_channel: 
+2022-02-02 01:31:00.644 DEBUG: read_channel: 
+2022-02-02 01:31:00.664 DEBUG: read_channel: 
+2022-02-02 01:31:00.685 DEBUG: read_channel: 
+2022-02-02 01:31:00.706 DEBUG: read_channel: 
+2022-02-02 01:31:00.727 DEBUG: read_channel: 
+2022-02-02 01:31:00.747 DEBUG: read_channel: 
+2022-02-02 01:31:00.768 DEBUG: read_channel: 
+2022-02-02 01:31:00.791 DEBUG: read_channel: 
+2022-02-02 01:31:00.811 DEBUG: read_channel: 
+2022-02-02 01:31:00.832 DEBUG: read_channel: 
+2022-02-02 01:31:00.852 DEBUG: read_channel: 
+2022-02-02 01:31:00.873 DEBUG: read_channel: 
+2022-02-02 01:31:00.894 DEBUG: read_channel: 
+2022-02-02 01:31:00.915 DEBUG: read_channel: 
+2022-02-02 01:31:00.936 DEBUG: read_channel: 
+2022-02-02 01:31:00.957 DEBUG: read_channel: 
+2022-02-02 01:31:00.978 DEBUG: read_channel: 
+2022-02-02 01:31:00.999 DEBUG: read_channel: 
+2022-02-02 01:31:01.020 DEBUG: read_channel: 
+2022-02-02 01:31:01.041 DEBUG: read_channel: 
+2022-02-02 01:31:01.061 DEBUG: read_channel: 
+2022-02-02 01:31:01.082 DEBUG: read_channel: 
+2022-02-02 01:31:01.102 DEBUG: read_channel: 
+2022-02-02 01:31:01.123 DEBUG: read_channel: 
+2022-02-02 01:31:01.144 DEBUG: read_channel: 
+2022-02-02 01:31:01.164 DEBUG: read_channel: 
+2022-02-02 01:31:01.184 DEBUG: read_channel: 
+2022-02-02 01:31:01.205 DEBUG: read_channel: 
+2022-02-02 01:31:01.226 DEBUG: read_channel: 
+2022-02-02 01:31:01.247 DEBUG: read_channel: 
+2022-02-02 01:31:01.267 DEBUG: read_channel: 
+2022-02-02 01:31:01.288 DEBUG: read_channel: 
+2022-02-02 01:31:01.309 DEBUG: read_channel: 
+2022-02-02 01:31:01.330 DEBUG: read_channel: 
+2022-02-02 01:31:01.351 DEBUG: read_channel: 
+2022-02-02 01:31:01.372 DEBUG: read_channel: 
+2022-02-02 01:31:01.393 DEBUG: read_channel: 
+2022-02-02 01:31:01.414 DEBUG: read_channel: 
+2022-02-02 01:31:01.435 DEBUG: read_channel: 
+2022-02-02 01:31:01.456 DEBUG: read_channel: 
+2022-02-02 01:31:01.477 DEBUG: read_channel: 
+2022-02-02 01:31:01.497 DEBUG: read_channel: 
+2022-02-02 01:31:01.518 DEBUG: read_channel: 
+2022-02-02 01:31:01.538 DEBUG: read_channel: 
+2022-02-02 01:31:01.559 DEBUG: read_channel: 
+2022-02-02 01:31:01.580 DEBUG: read_channel: 
+2022-02-02 01:31:01.601 DEBUG: read_channel: 
+2022-02-02 01:31:01.622 DEBUG: read_channel: 
+2022-02-02 01:31:01.643 DEBUG: read_channel: 
+2022-02-02 01:31:01.664 DEBUG: read_channel: 
+2022-02-02 01:31:01.685 DEBUG: read_channel: 
+2022-02-02 01:31:01.706 DEBUG: read_channel: 
+2022-02-02 01:31:01.727 DEBUG: read_channel: 
+2022-02-02 01:31:01.748 DEBUG: read_channel: 
+2022-02-02 01:31:01.769 DEBUG: read_channel: 
+2022-02-02 01:31:01.790 DEBUG: read_channel: 
+2022-02-02 01:31:01.811 DEBUG: read_channel: 
+2022-02-02 01:31:01.832 DEBUG: read_channel: 
+2022-02-02 01:31:01.853 DEBUG: read_channel: 
+2022-02-02 01:31:01.874 DEBUG: read_channel: 
+2022-02-02 01:31:01.895 DEBUG: read_channel: 
+2022-02-02 01:31:01.916 DEBUG: read_channel: 
+2022-02-02 01:31:01.936 DEBUG: read_channel: 
+2022-02-02 01:31:01.957 DEBUG: read_channel: 
+2022-02-02 01:31:01.978 DEBUG: read_channel: 
+2022-02-02 01:31:01.999 DEBUG: read_channel: 
+2022-02-02 01:31:02.020 DEBUG: read_channel: 
+2022-02-02 01:31:02.041 DEBUG: read_channel: 
+
+Co
+2022-02-02 01:31:02.061 DEBUG: read_channel: 
+2022-02-02 01:31:02.082 DEBUG: read_channel: 
+2022-02-02 01:31:02.103 DEBUG: read_channel: 
+2022-02-02 01:31:02.124 DEBUG: read_channel: 
+2022-02-02 01:31:02.145 DEBUG: read_channel: 
+2022-02-02 01:31:02.166 DEBUG: read_channel: 
+2022-02-02 01:31:02.187 DEBUG: read_channel: 
+2022-02-02 01:31:02.208 DEBUG: read_channel: 
+2022-02-02 01:31:02.229 DEBUG: read_channel: 
+2022-02-02 01:31:02.250 DEBUG: read_channel: nfiguration Saved!
+
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:31:02.263 DEBUG: read_channel: 
+2022-02-02 01:31:02.264 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:02.275 DEBUG: read_channel: 
+2022-02-02 01:31:02.275 DEBUG: read_channel: 
+2022-02-02 01:31:02.276 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:02.286 DEBUG: read_channel: 
+2022-02-02 01:31:02.286 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:02.308 DEBUG: read_channel: 
+2022-02-02 01:31:02.308 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:02.350 DEBUG: read_channel: 
+(Cisc
+2022-02-02 01:31:02.372 DEBUG: read_channel: 
+2022-02-02 01:31:02.372 DEBUG: [find_prompt()]: prompt is (Cisc
+2022-02-02 01:31:02.372 DEBUG: write_channel: b'\x1a\n'
+2022-02-02 01:31:02.373 DEBUG: send_command_timing current output: 
+2022-02-02 01:31:02.473 DEBUG: read_channel: o Controller) >
+(Cisco Controller) >
+(Cisco Control
+2022-02-02 01:31:02.574 DEBUG: read_channel: 
+2022-02-02 01:31:04.577 DEBUG: read_channel: ler) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:31:04.677 DEBUG: read_channel: 
+2022-02-02 01:31:06.680 DEBUG: read_channel: 
+2022-02-02 01:31:06.680 DEBUG: send_command_timing final output: o Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+2022-02-02 01:31:06.712 DEBUG: read_channel: 
+2022-02-02 01:31:06.712 DEBUG: write_channel: b'logout\n'
+2022-02-02 01:31:06.712 DEBUG: Pattern is: logout
+2022-02-02 01:31:06.785 DEBUG: _read_channel_expect read_data: logout
+2022-02-02 01:31:06.785 DEBUG: Pattern found: logout logout
+2022-02-02 01:31:06.806 DEBUG: read_channel: 
+2022-02-02 01:31:06.827 DEBUG: read_channel: 
+2022-02-02 01:31:06.848 DEBUG: read_channel: 
+2022-02-02 01:31:06.869 DEBUG: read_channel: 
+2022-02-02 01:31:06.890 DEBUG: read_channel: 
+2022-02-02 01:31:06.910 DEBUG: read_channel: 
+2022-02-02 01:31:06.931 DEBUG: read_channel: 
+2022-02-02 01:31:06.952 DEBUG: read_channel: 
+2022-02-02 01:31:06.972 DEBUG: read_channel: 
+2022-02-02 01:31:06.993 DEBUG: read_channel: 
+(Cisco Controller) 
+User: 
+2022-02-02 01:31:07.004 DEBUG: read_channel: 
+2022-02-02 01:31:07.004 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:07.015 DEBUG: read_channel: 
+2022-02-02 01:31:07.015 DEBUG: read_channel: 
+2022-02-02 01:31:07.015 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:07.026 DEBUG: read_channel: 
+2022-02-02 01:31:07.026 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:07.047 DEBUG: read_channel: 
+2022-02-02 01:31:07.047 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:07.088 DEBUG: read_channel: 
+User:
+2022-02-02 01:31:07.110 DEBUG: read_channel: 
+2022-02-02 01:31:07.110 DEBUG: [find_prompt()]: prompt is User:
+2022-02-02 01:31:07.111 DEBUG: write_channel: b'\x01\x11\n'
+2022-02-02 01:31:07.111 DEBUG: send_command_timing current output: 
+2022-02-02 01:31:07.211 DEBUG: read_channel: 
+User:
+User:
+User:
+2022-02-02 01:31:07.312 DEBUG: read_channel: 
+2022-02-02 01:31:09.315 DEBUG: read_channel: 
+Thanks for using picocom
+111-4#
+2022-02-02 01:31:09.416 DEBUG: read_channel: 
+2022-02-02 01:31:11.419 DEBUG: read_channel: 
+2022-02-02 01:31:11.419 DEBUG: send_command_timing final output: 
+User:
+User:
+User:
+Thanks for using picocom
+2022-02-02 01:31:11.430 DEBUG: read_channel: 
+2022-02-02 01:31:11.430 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:11.441 DEBUG: read_channel: 
+2022-02-02 01:31:11.441 DEBUG: read_channel: 
+2022-02-02 01:31:11.442 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:11.453 DEBUG: read_channel: 
+2022-02-02 01:31:11.453 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:11.475 DEBUG: read_channel: 
+2022-02-02 01:31:11.475 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:11.517 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:31:11.538 DEBUG: read_channel: 
+111-4#
+111-4#
+111-4#
+2022-02-02 01:31:11.539 DEBUG: Clear buffer detects data in the channel
+2022-02-02 01:31:11.560 DEBUG: read_channel: 
+2022-02-02 01:31:11.561 DEBUG: [find_prompt()]: prompt is 111-4#
+2022-02-02 01:31:11.561 DEBUG: write_channel: b'\n'
+2022-02-02 01:31:11.661 DEBUG: read_channel: 
+111-4#
+2022-02-02 01:31:11.763 DEBUG: read_channel: 
+2022-02-02 01:31:13.766 DEBUG: read_channel: 
+2022-02-02 01:31:13.766 DEBUG: write_channel: b'exit\n'
+2022-02-02 01:31:13.766 INFO: 10.88.174.137: disconnected

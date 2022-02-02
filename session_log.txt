@@ -1,0 +1,200 @@
+
+
+
+111-4#terminal width 511
+111-4#terminal length 0
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#hw-module session 0/3 clear
+111-4#hw-module session 0/3
+Establishing session connect to subslot 0/3
+To exit, type ^a^q
+
+picocom v2.2
+
+port is        : /dev/ttyS3
+flowcontrol    : none
+baudrate is    : 9600
+parity is      : none
+databits are   : 8
+stopbits are   : 1
+escape is      : C-a
+local echo is  : no
+noinit is      : no
+noreset is     : no
+nolock is      : yes
+send_cmd is    : sz -vv
+receive_cmd is : rz -vv -E
+imap is        : 
+omap is        : 
+emap is        : crcrlf,delbs,
+logfile is     : none
+
+Type [C-a] [C-h] to see available commands
+
+Terminal ready
+
+User:
+User:
+User:
+
+User:
+User:admin
+Password:*********
+ Warning: Missing TFTP/CCO params, Please Configure the Image Download Params
+
+Welcome to the Cisco Mobility Express command line interface.
+Only commands which are listed in the command reference guide for this release are supported.
+http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-reference-list.html
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >config paging disable
+
+
+(Cisco Controller) >config acl delete ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >config acl create ONGUARD-EPP-ACL
+
+
+(Cisco Controller) >config acl rule add ONGUARD-EPP-ACL 1
+
+
+
+(Cisco Controller) >config acl rule action ONGUARD-EPP-ACL 1 permit
+
+
+(Cisco Controller) >config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+
+(Cisco Controller) >config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535
+
+
+
+(Cisco Controller) >config acl rule source address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >config acl rule source port range ONGUARD-EPP-ACL 1 53 53
+
+
+
+(Cisco Controller) >config acl rule direction ONGUARD-EPP-ACL 1 Any
+
+
+
+(Cisco Controller) >config acl rule dscp ONGUARD-EPP-ACL 1  Any
+
+
+(Cisco Controller) >config acl rule protocol ONGUARD-EPP-ACL 1   17
+
+
+
+(Cisco Controller) >config acl rule add ONGUARD-EPP-ACL 2
+
+
+
+(Cisco Controller) >config acl rule action ONGUARD-EPP-ACL 2 permit
+
+
+
+(Cisco Controller) >config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+
+(Cisco Controller) >config acl rule destination port range ONGUARD-EPP-ACL 2 53 53
+
+
+
+(Cisco Controller) >config acl rule source address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
+
+
+
+
+(Cisco Controller) >config acl rule source port range ONGUARD-EPP-ACL 2 0 65535
+
+
+
+(Cisco Controller) >config acl rule direction ONGUARD-EPP-ACL 2 Any
+
+
+
+(Cisco Controller) >config acl rule dscp ONGUARD-EPP-ACL 2  Any
+
+
+
+(Cisco Controller) >config acl rule protocol ONGUARD-EPP-ACL 2   17
+
+
+
+(Cisco Controller) >config acl rule add ONGUARD-EPP-ACL 3
+
+
+(Cisco Controller) >config acl rule action ONGUARD-EPP-ACL 3 permit
+
+
+(Cisco Controller) >config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
+
+(Cisco Controller) >config acl rule source port range ONGUARD-EPP-ACL 3 0 65535
+
+
+(Cisco Controller) >config acl rule direction ONGUARD-EPP-ACL 3 Any
+
+
+(Cisco Controller) >config acl rule dscp ONGUARD-EPP-ACL 3  Any
+
+
+(Cisco Controller) >config acl rule protocol ONGUARD-EPP-ACL 3  1
+
+
+(Cisco Controller) >config paging enable
+
+
+
+(Cisco Controller) >save config
+
+
+
+Are you sure you want to save? (y/n) y
+
+
+
+Configuration Saved!
+
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >
+(Cisco Controller) >logout
+
+
+(Cisco Controller) 
+User: 
+User:
+User:
+User:
+User:
+Thanks for using picocom
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#
+111-4#exit

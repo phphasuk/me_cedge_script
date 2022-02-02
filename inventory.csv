@@ -1,0 +1,2 @@
+host,username,password,device_type,session_log,acl_name
+10.88.174.137,admin,cisco!123,cisco_xe,session_log.txt,ONGUARD-EPP-ACL

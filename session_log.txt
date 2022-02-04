@@ -1,18 +1,15 @@
 
 
 
-111-4#terminal width 511
-111-4#terminal length 0
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#hw-module session 0/3 clear
-111-4#hw-module session 0/3
+F241.03.18-C1111#terminal width 511
+F241.03.18-C1111#terminal length 0
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#hw-module session 0/3 clear
+F241.03.18-C1111#hw-module session 0/3
 Establishing session connect to subslot 0/3
 To exit, type ^a^q
 
@@ -43,7 +40,6 @@ Terminal ready
 User:
 User:
 User:
-
 User:
 User:admin
 Password:*********
@@ -61,6 +57,7 @@ http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-
 (Cisco Controller) >config acl delete ONGUARD-EPP-ACL
 
 
+
 (Cisco Controller) >config acl create ONGUARD-EPP-ACL
 
 
@@ -71,11 +68,13 @@ http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-
 (Cisco Controller) >config acl rule action ONGUARD-EPP-ACL 1 permit
 
 
+
 (Cisco Controller) >config acl rule destination address ONGUARD-EPP-ACL 1 0.0.0.0 0.0.0.0
 
 
 
 (Cisco Controller) >config acl rule destination port range ONGUARD-EPP-ACL 1 0 65535
+
 
 
 
@@ -85,24 +84,20 @@ http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-
 (Cisco Controller) >config acl rule source port range ONGUARD-EPP-ACL 1 53 53
 
 
-
 (Cisco Controller) >config acl rule direction ONGUARD-EPP-ACL 1 Any
-
 
 
 (Cisco Controller) >config acl rule dscp ONGUARD-EPP-ACL 1  Any
 
 
-(Cisco Controller) >config acl rule protocol ONGUARD-EPP-ACL 1   17
 
+(Cisco Controller) >config acl rule protocol ONGUARD-EPP-ACL 1   17
 
 
 (Cisco Controller) >config acl rule add ONGUARD-EPP-ACL 2
 
 
-
 (Cisco Controller) >config acl rule action ONGUARD-EPP-ACL 2 permit
-
 
 
 (Cisco Controller) >config acl rule destination address ONGUARD-EPP-ACL 2 0.0.0.0 0.0.0.0
@@ -117,13 +112,11 @@ http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-
 
 
 
-
 (Cisco Controller) >config acl rule source port range ONGUARD-EPP-ACL 2 0 65535
 
 
 
 (Cisco Controller) >config acl rule direction ONGUARD-EPP-ACL 2 Any
-
 
 
 (Cisco Controller) >config acl rule dscp ONGUARD-EPP-ACL 2  Any
@@ -137,16 +130,21 @@ http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-
 (Cisco Controller) >config acl rule add ONGUARD-EPP-ACL 3
 
 
+
 (Cisco Controller) >config acl rule action ONGUARD-EPP-ACL 3 permit
+
 
 
 (Cisco Controller) >config acl rule destination address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
 
 
+
 (Cisco Controller) >config acl rule destination port range ONGUARD-EPP-ACL 3 0 65535
 
 
+
 (Cisco Controller) >config acl rule source address ONGUARD-EPP-ACL 3 0.0.0.0 0.0.0.0
+
 
 
 (Cisco Controller) >config acl rule source port range ONGUARD-EPP-ACL 3 0 65535
@@ -155,10 +153,13 @@ http://www.cisco.com/c/en/us/support/wireless/mobility-express/products-command-
 (Cisco Controller) >config acl rule direction ONGUARD-EPP-ACL 3 Any
 
 
+
 (Cisco Controller) >config acl rule dscp ONGUARD-EPP-ACL 3  Any
 
 
+
 (Cisco Controller) >config acl rule protocol ONGUARD-EPP-ACL 3  1
+
 
 
 (Cisco Controller) >config paging enable
@@ -192,9 +193,9 @@ User:
 User:
 User:
 Thanks for using picocom
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#
-111-4#exit
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#
+F241.03.18-C1111#exit

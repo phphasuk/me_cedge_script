@@ -68,48 +68,53 @@ for id, device_info in devices.items():
     device['password'] = device_info['password']
     device['device_type'] = device_info['device_type']
     device['session_log'] = device_info['session_log']
-
-    ssh_conn = Netmiko(**device)
-    logging.info(f'{device["host"]}: connected')
-    output = ssh_conn.send_command('hw-module session 0/3 clear')
-    output = ssh_conn.send_command('hw-module session 0/3', expect_string='Terminal ready', strip_prompt=False)
-    output = ssh_conn.send_command_timing('', delay_factor=1)
-    output = ssh_conn.find_prompt()
-    while output != '(Cisco Controller) >':
-        if output == 'User:':
-            output = ssh_conn.send_command('admin', expect_string='Password:', strip_prompt=False)
-            output = ssh_conn.send_command_timing('cisco!123', delay_factor=1)
-        else:
-            output = ssh_conn.send_command_timing('\x1A', delay_factor=1)
-            output = ssh_conn.send_command_timing('', delay_factor=1)
-    output = ssh_conn.disable_paging(command='config paging disable')
-    logging.info(f'{device["host"]}: mobility express module connected')
-
-    device_param = {}
-    for item in device_info:
-        if item not in ['host', 'username', 'password', 'device_type', 'session_log']:
-            device_param[item] = device_info[item]
-    device_config = config_template.render(device_param)
-    device_config_lines = device_config.splitlines()
-
-
-    logging.info(f'{device["host"]}: start parsing the configuration')
-# Need to put more conditions to test the response prompt
-    for device_config_line in device_config_lines:
-        logging.debug(f'{device["host"]}: config = {device_config_line}')
-        output = ssh_conn.send_command(device_config_line, expect_string='\(Cisco Controller\)', strip_prompt=False)
-    logging.info(f'{device["host"]}: configuration complete')
-
-
-    output = ssh_conn.disable_paging(command='config paging enable')
-    output = ssh_conn.send_command('save config', expect_string='y/n', strip_prompt=False)
-    output = ssh_conn.send_command('y', expect_string='Saved', strip_prompt=False)
-    output = ssh_conn.find_prompt()
-    while output != 'User:':
-        output = ssh_conn.send_command_timing('\x1A', delay_factor=1)
-        output = ssh_conn.send_command('logout', expect_string='User:', strip_prompt=False)
+    try:
+        ssh_conn = Netmiko(**device)
+        logging.info(f'{device["host"]}: connected')
+        output = ssh_conn.send_command('hw-module session 0/3 clear')
+        output = ssh_conn.send_command('hw-module session 0/3', expect_string='Terminal ready', strip_prompt=False)
+        output = ssh_conn.send_command_timing('', delay_factor=1)
         output = ssh_conn.find_prompt()
-    output = ssh_conn.send_command_timing('\x01\x11', delay_factor=1)
-    output = ssh_conn.find_prompt()
-    ssh_conn.disconnect()
-    logging.info(f'{device["host"]}: disconnected')
+        while output != '(Cisco Controller) >':
+            if output == 'User:':
+                output = ssh_conn.send_command(device_info['em_username'], expect_string='Password:', strip_prompt=False)
+                output = ssh_conn.send_command_timing(device_info['em_password'], delay_factor=1)
+            else:
+                output = ssh_conn.send_command_timing('\x1A', delay_factor=1)
+                output = ssh_conn.send_command_timing('', delay_factor=1)
+        output = ssh_conn.disable_paging(command='config paging disable')
+        logging.info(f'{device["host"]}: mobility express module connected')
+
+        device_param = {}
+        for item in device_info:
+            if item not in ['host', 'username', 'password', 'device_type', 'session_log', 'em_username', 'em_password']:
+                device_param[item] = device_info[item]
+        device_config = config_template.render(device_param)
+        device_config_lines = device_config.splitlines()
+
+
+        logging.info(f'{device["host"]}: start parsing the configuration')
+        # Need to put more conditions to test the response prompt
+        for device_config_line in device_config_lines:
+            logging.debug(f'{device["host"]}: config = {device_config_line}')
+            output = ssh_conn.send_command(device_config_line, expect_string='\(Cisco Controller\)', strip_prompt=False)
+        logging.info(f'{device["host"]}: configuration complete')
+
+
+        output = ssh_conn.disable_paging(command='config paging enable')
+        output = ssh_conn.send_command('save config', expect_string='y/n', strip_prompt=False)
+        output = ssh_conn.send_command('y', expect_string='Saved', strip_prompt=False)
+        output = ssh_conn.find_prompt()
+        while output != 'User:':
+            output = ssh_conn.send_command_timing('\x1A', delay_factor=1)
+            output = ssh_conn.send_command('logout', expect_string='User:', strip_prompt=False)
+            output = ssh_conn.find_prompt()
+        output = ssh_conn.send_command_timing('\x01\x11', delay_factor=1)
+        output = ssh_conn.find_prompt()
+        ssh_conn.disconnect()
+        logging.info(f'{device["host"]}: disconnected')
+        logging.info(f'{device["host"]}: configuration done')
+    
+    except Exception as err:
+        logging.error(f'{device["host"]}: configuration failed with error = {err}')
+        continue

@@ -1,2 +1,3 @@
-host,username,password,device_type,session_log,acl_name
-10.88.174.137,admin,cisco!123,cisco_xe,session_log.txt,ONGUARD-EPP-ACL
+host,username,password,device_type,session_log,em_username,em_password,acl_name
+10.82.139.88,admin,cisco!123,cisco_xe,session_log.txt,admin,cisco!123,ONGUARD-EPP-ACL
+10.82.139.88,admin,cisco!123,cisco_xe,session_log.txt,admin,cisco!123,ONGUARD-EPP-ACL
